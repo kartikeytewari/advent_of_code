@@ -1,0 +1,8977 @@
+i= 0
+code= F
+val= 75
+--------
+x= 750
+y= 75
+waypoll0= 10
+waypoll1= 1
+waypoll2= 0
+waypoll3= 0
+notch= 0
+--------
+i= 1
+code= L
+val= 90
+--------
+x= 750
+y= 75
+waypoll0= 10
+waypoll1= 1
+waypoll2= 0
+waypoll3= 0
+notch= 3
+--------
+i= 2
+code= N
+val= 5
+--------
+x= 750
+y= 75
+waypoll0= 15
+waypoll1= 1
+waypoll2= 0
+waypoll3= 0
+notch= 3
+--------
+i= 3
+code= W
+val= 2
+--------
+x= 750
+y= 75
+waypoll0= 15
+waypoll1= 3
+waypoll2= 0
+waypoll3= 0
+notch= 3
+--------
+i= 4
+code= N
+val= 5
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 3
+waypoll2= 0
+waypoll3= 0
+notch= 3
+--------
+i= 5
+code= L
+val= 90
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 3
+waypoll2= 0
+waypoll3= 0
+notch= 6
+--------
+i= 6
+code= S
+val= 1
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 4
+waypoll2= 0
+waypoll3= 0
+notch= 6
+--------
+i= 7
+code= R
+val= 90
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 4
+waypoll2= 0
+waypoll3= 0
+notch= 7
+--------
+i= 8
+code= S
+val= 4
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 4
+waypoll2= 4
+waypoll3= 0
+notch= 7
+--------
+i= 9
+code= E
+val= 2
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 4
+waypoll2= 4
+waypoll3= 2
+notch= 7
+--------
+i= 10
+code= W
+val= 1
+--------
+x= 750
+y= 75
+waypoll0= 20
+waypoll1= 5
+waypoll2= 4
+waypoll3= 2
+notch= 7
+--------
+i= 11
+code= F
+val= 100
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 7
+--------
+i= 12
+code= L
+val= 180
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 13
+--------
+i= 13
+code= W
+val= 3
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 0
+notch= 13
+--------
+i= 14
+code= N
+val= 1
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 0
+waypoll2= 1
+waypoll3= 0
+notch= 13
+--------
+i= 15
+code= R
+val= 180
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 0
+waypoll2= 1
+waypoll3= 0
+notch= 15
+--------
+i= 16
+code= W
+val= 1
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 1
+waypoll2= 1
+waypoll3= 0
+notch= 15
+--------
+i= 17
+code= S
+val= 4
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 1
+waypoll2= 5
+waypoll3= 0
+notch= 15
+--------
+i= 18
+code= R
+val= 270
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 1
+waypoll2= 5
+waypoll3= 0
+notch= 18
+--------
+i= 19
+code= S
+val= 4
+--------
+x= 450
+y= 1675
+waypoll0= 16
+waypoll1= 5
+waypoll2= 5
+waypoll3= 0
+notch= 18
+--------
+i= 20
+code= F
+val= 23
+--------
+x= 197
+y= 1560
+waypoll0= 0
+waypoll1= 0
+waypoll2= -11
+waypoll3= -5
+notch= 18
+--------
+i= 21
+code= E
+val= 2
+--------
+x= 197
+y= 1560
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= -5
+notch= 18
+--------
+i= 22
+code= F
+val= 17
+--------
+x= 44
+y= 1475
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= -5
+notch= 18
+--------
+i= 23
+code= N
+val= 5
+--------
+x= 44
+y= 1475
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= 0
+notch= 18
+--------
+i= 24
+code= R
+val= 90
+--------
+x= 44
+y= 1475
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= 0
+notch= 19
+--------
+i= 25
+code= F
+val= 83
+--------
+x= 44
+y= 2222
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 0
+notch= 19
+--------
+i= 26
+code= E
+val= 2
+--------
+x= 44
+y= 2222
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 2
+notch= 19
+--------
+i= 27
+code= F
+val= 34
+--------
+x= 112
+y= 2528
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 2
+notch= 19
+--------
+i= 28
+code= E
+val= 3
+--------
+x= 112
+y= 2528
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 5
+notch= 19
+--------
+i= 29
+code= S
+val= 4
+--------
+x= 112
+y= 2528
+waypoll0= 9
+waypoll1= 0
+waypoll2= 4
+waypoll3= 5
+notch= 19
+--------
+i= 30
+code= F
+val= 19
+--------
+x= 207
+y= 2623
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 5
+notch= 19
+--------
+i= 31
+code= W
+val= 4
+--------
+x= 207
+y= 2623
+waypoll0= 5
+waypoll1= 4
+waypoll2= 0
+waypoll3= 5
+notch= 19
+--------
+i= 32
+code= L
+val= 90
+--------
+x= 207
+y= 2623
+waypoll0= 5
+waypoll1= 4
+waypoll2= 0
+waypoll3= 5
+notch= 22
+--------
+i= 33
+code= W
+val= 2
+--------
+x= 207
+y= 2623
+waypoll0= 7
+waypoll1= 4
+waypoll2= 0
+waypoll3= 5
+notch= 22
+--------
+i= 34
+code= L
+val= 90
+--------
+x= 207
+y= 2623
+waypoll0= 7
+waypoll1= 4
+waypoll2= 0
+waypoll3= 5
+notch= 25
+--------
+i= 35
+code= E
+val= 2
+--------
+x= 207
+y= 2623
+waypoll0= 7
+waypoll1= 6
+waypoll2= 0
+waypoll3= 5
+notch= 25
+--------
+i= 36
+code= F
+val= 79
+--------
+x= 286
+y= 2070
+waypoll0= 0
+waypoll1= 1
+waypoll2= -7
+waypoll3= 0
+notch= 25
+--------
+i= 37
+code= L
+val= 90
+--------
+x= 286
+y= 2070
+waypoll0= 0
+waypoll1= 1
+waypoll2= -7
+waypoll3= 0
+notch= 28
+--------
+i= 38
+code= F
+val= 80
+--------
+x= 846
+y= 2150
+waypoll0= 7
+waypoll1= 1
+waypoll2= 0
+waypoll3= 0
+notch= 28
+--------
+i= 39
+code= N
+val= 1
+--------
+x= 846
+y= 2150
+waypoll0= 7
+waypoll1= 2
+waypoll2= 0
+waypoll3= 0
+notch= 28
+--------
+i= 40
+code= R
+val= 90
+--------
+x= 846
+y= 2150
+waypoll0= 7
+waypoll1= 2
+waypoll2= 0
+waypoll3= 0
+notch= 29
+--------
+i= 41
+code= F
+val= 35
+--------
+x= 916
+y= 1905
+waypoll0= 0
+waypoll1= 2
+waypoll2= -7
+waypoll3= 0
+notch= 29
+--------
+i= 42
+code= L
+val= 90
+--------
+x= 916
+y= 1905
+waypoll0= 0
+waypoll1= 2
+waypoll2= -7
+waypoll3= 0
+notch= 32
+--------
+i= 43
+code= N
+val= 5
+--------
+x= 916
+y= 1905
+waypoll0= 0
+waypoll1= 7
+waypoll2= -7
+waypoll3= 0
+notch= 32
+--------
+i= 44
+code= E
+val= 3
+--------
+x= 916
+y= 1905
+waypoll0= 3
+waypoll1= 7
+waypoll2= -7
+waypoll3= 0
+notch= 32
+--------
+i= 45
+code= S
+val= 5
+--------
+x= 916
+y= 1905
+waypoll0= 3
+waypoll1= 7
+waypoll2= -7
+waypoll3= 5
+notch= 32
+--------
+i= 46
+code= R
+val= 90
+--------
+x= 916
+y= 1905
+waypoll0= 3
+waypoll1= 7
+waypoll2= -7
+waypoll3= 5
+notch= 33
+--------
+i= 47
+code= F
+val= 71
+--------
+x= 1058
+y= 1195
+waypoll0= 0
+waypoll1= 2
+waypoll2= -10
+waypoll3= 0
+notch= 33
+--------
+i= 48
+code= N
+val= 1
+--------
+x= 1058
+y= 1195
+waypoll0= 0
+waypoll1= 2
+waypoll2= -9
+waypoll3= 0
+notch= 33
+--------
+i= 49
+code= F
+val= 19
+--------
+x= 1096
+y= 1024
+waypoll0= 0
+waypoll1= 2
+waypoll2= -9
+waypoll3= 0
+notch= 33
+--------
+i= 50
+code= F
+val= 49
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 2
+waypoll2= -9
+waypoll3= 0
+notch= 33
+--------
+i= 51
+code= R
+val= 90
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 2
+waypoll2= -9
+waypoll3= 0
+notch= 34
+--------
+i= 52
+code= E
+val= 4
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 2
+waypoll2= -5
+waypoll3= 0
+notch= 34
+--------
+i= 53
+code= L
+val= 90
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 2
+waypoll2= -5
+waypoll3= 0
+notch= 37
+--------
+i= 54
+code= W
+val= 1
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 2
+waypoll2= -5
+waypoll3= 1
+notch= 37
+--------
+i= 55
+code= R
+val= 90
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 2
+waypoll2= -5
+waypoll3= 1
+notch= 38
+--------
+i= 56
+code= S
+val= 2
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 4
+waypoll2= -5
+waypoll3= 1
+notch= 38
+--------
+i= 57
+code= E
+val= 1
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 4
+waypoll2= -4
+waypoll3= 1
+notch= 38
+--------
+i= 58
+code= L
+val= 180
+--------
+x= 1194
+y= 583
+waypoll0= 0
+waypoll1= 4
+waypoll2= -4
+waypoll3= 1
+notch= 44
+--------
+i= 59
+code= F
+val= 79
+--------
+x= 1510
+y= 820
+waypoll0= 4
+waypoll1= 3
+waypoll2= 0
+waypoll3= 0
+notch= 44
+--------
+i= 60
+code= W
+val= 4
+--------
+x= 1510
+y= 820
+waypoll0= 4
+waypoll1= 3
+waypoll2= 4
+waypoll3= 0
+notch= 44
+--------
+i= 61
+code= L
+val= 180
+--------
+x= 1510
+y= 820
+waypoll0= 4
+waypoll1= 3
+waypoll2= 4
+waypoll3= 0
+notch= 50
+--------
+i= 62
+code= F
+val= 74
+--------
+x= 1510
+y= 598
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 50
+--------
+i= 63
+code= W
+val= 5
+--------
+x= 1510
+y= 598
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 50
+--------
+i= 64
+code= R
+val= 90
+--------
+x= 1510
+y= 598
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 51
+--------
+i= 65
+code= F
+val= 30
+--------
+x= 1420
+y= 748
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 51
+--------
+i= 66
+code= R
+val= 90
+--------
+x= 1420
+y= 748
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= -3
+notch= 52
+--------
+i= 67
+code= W
+val= 2
+--------
+x= 1420
+y= 748
+waypoll0= 5
+waypoll1= 0
+waypoll2= 2
+waypoll3= -3
+notch= 52
+--------
+i= 68
+code= R
+val= 90
+--------
+x= 1420
+y= 748
+waypoll0= 5
+waypoll1= 0
+waypoll2= 2
+waypoll3= -3
+notch= 53
+--------
+i= 69
+code= F
+val= 35
+--------
+x= 1525
+y= 643
+waypoll0= 0
+waypoll1= 3
+waypoll2= -3
+waypoll3= 0
+notch= 53
+--------
+i= 70
+code= R
+val= 90
+--------
+x= 1525
+y= 643
+waypoll0= 0
+waypoll1= 3
+waypoll2= -3
+waypoll3= 0
+notch= 54
+--------
+i= 71
+code= F
+val= 12
+--------
+x= 1489
+y= 607
+waypoll0= 0
+waypoll1= 0
+waypoll2= -3
+waypoll3= -3
+notch= 54
+--------
+i= 72
+code= W
+val= 2
+--------
+x= 1489
+y= 607
+waypoll0= 2
+waypoll1= 0
+waypoll2= -3
+waypoll3= -3
+notch= 54
+--------
+i= 73
+code= F
+val= 7
+--------
+x= 1454
+y= 586
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= -3
+notch= 54
+--------
+i= 74
+code= R
+val= 90
+--------
+x= 1454
+y= 586
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= -3
+notch= 55
+--------
+i= 75
+code= E
+val= 5
+--------
+x= 1454
+y= 586
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= 2
+notch= 55
+--------
+i= 76
+code= F
+val= 68
+--------
+x= 1590
+y= 926
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 2
+notch= 55
+--------
+i= 77
+code= E
+val= 3
+--------
+x= 1590
+y= 926
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 5
+notch= 55
+--------
+i= 78
+code= F
+val= 21
+--------
+x= 1695
+y= 1031
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 5
+notch= 55
+--------
+i= 79
+code= N
+val= 4
+--------
+x= 1695
+y= 1031
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 5
+notch= 55
+--------
+i= 80
+code= F
+val= 22
+--------
+x= 1805
+y= 1229
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 5
+notch= 55
+--------
+i= 81
+code= W
+val= 4
+--------
+x= 1805
+y= 1229
+waypoll0= 9
+waypoll1= 4
+waypoll2= 0
+waypoll3= 5
+notch= 55
+--------
+i= 82
+code= S
+val= 2
+--------
+x= 1805
+y= 1229
+waypoll0= 9
+waypoll1= 4
+waypoll2= 2
+waypoll3= 5
+notch= 55
+--------
+i= 83
+code= F
+val= 89
+--------
+x= 1894
+y= 1852
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 1
+notch= 55
+--------
+i= 84
+code= L
+val= 90
+--------
+x= 1894
+y= 1852
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 1
+notch= 58
+--------
+i= 85
+code= N
+val= 5
+--------
+x= 1894
+y= 1852
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 6
+notch= 58
+--------
+i= 86
+code= R
+val= 90
+--------
+x= 1894
+y= 1852
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 6
+notch= 59
+--------
+i= 87
+code= F
+val= 8
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 6
+notch= 59
+--------
+i= 88
+code= R
+val= 90
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 6
+notch= 60
+--------
+i= 89
+code= W
+val= 2
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 2
+waypoll3= 6
+notch= 60
+--------
+i= 90
+code= S
+val= 3
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 2
+waypoll3= 9
+notch= 60
+--------
+i= 91
+code= R
+val= 180
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 2
+waypoll3= 9
+notch= 62
+--------
+i= 92
+code= N
+val= 2
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 2
+waypoll3= 11
+notch= 62
+--------
+i= 93
+code= R
+val= 90
+--------
+x= 1942
+y= 1908
+waypoll0= 7
+waypoll1= 0
+waypoll2= 2
+waypoll3= 11
+notch= 63
+--------
+i= 94
+code= F
+val= 49
+--------
+x= 2481
+y= 2153
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 11
+notch= 63
+--------
+i= 95
+code= N
+val= 4
+--------
+x= 2481
+y= 2153
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 11
+notch= 63
+--------
+i= 96
+code= E
+val= 5
+--------
+x= 2481
+y= 2153
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 16
+notch= 63
+--------
+i= 97
+code= F
+val= 31
+--------
+x= 2977
+y= 2432
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 16
+notch= 63
+--------
+i= 98
+code= S
+val= 3
+--------
+x= 2977
+y= 2432
+waypoll0= 9
+waypoll1= 0
+waypoll2= 3
+waypoll3= 16
+notch= 63
+--------
+i= 99
+code= E
+val= 4
+--------
+x= 2977
+y= 2432
+waypoll0= 9
+waypoll1= 0
+waypoll2= 3
+waypoll3= 20
+notch= 63
+--------
+i= 100
+code= F
+val= 61
+--------
+x= 4197
+y= 2798
+waypoll0= 6
+waypoll1= 0
+waypoll2= 0
+waypoll3= 20
+notch= 63
+--------
+i= 101
+code= E
+val= 1
+--------
+x= 4197
+y= 2798
+waypoll0= 6
+waypoll1= 0
+waypoll2= 0
+waypoll3= 21
+notch= 63
+--------
+i= 102
+code= L
+val= 90
+--------
+x= 4197
+y= 2798
+waypoll0= 6
+waypoll1= 0
+waypoll2= 0
+waypoll3= 21
+notch= 66
+--------
+i= 103
+code= N
+val= 1
+--------
+x= 4197
+y= 2798
+waypoll0= 6
+waypoll1= 0
+waypoll2= 0
+waypoll3= 22
+notch= 66
+--------
+i= 104
+code= W
+val= 5
+--------
+x= 4197
+y= 2798
+waypoll0= 11
+waypoll1= 0
+waypoll2= 0
+waypoll3= 22
+notch= 66
+--------
+i= 105
+code= F
+val= 15
+--------
+x= 4032
+y= 3128
+waypoll0= 0
+waypoll1= 0
+waypoll2= -11
+waypoll3= 22
+notch= 66
+--------
+i= 106
+code= F
+val= 13
+--------
+x= 3889
+y= 3414
+waypoll0= 0
+waypoll1= 0
+waypoll2= -11
+waypoll3= 22
+notch= 66
+--------
+i= 107
+code= E
+val= 4
+--------
+x= 3889
+y= 3414
+waypoll0= 0
+waypoll1= 0
+waypoll2= -7
+waypoll3= 22
+notch= 66
+--------
+i= 108
+code= N
+val= 2
+--------
+x= 3889
+y= 3414
+waypoll0= 0
+waypoll1= 0
+waypoll2= -7
+waypoll3= 24
+notch= 66
+--------
+i= 109
+code= R
+val= 180
+--------
+x= 3889
+y= 3414
+waypoll0= 0
+waypoll1= 0
+waypoll2= -7
+waypoll3= 24
+notch= 68
+--------
+i= 110
+code= S
+val= 2
+--------
+x= 3889
+y= 3414
+waypoll0= 0
+waypoll1= 0
+waypoll2= -7
+waypoll3= 26
+notch= 68
+--------
+i= 111
+code= L
+val= 90
+--------
+x= 3889
+y= 3414
+waypoll0= 0
+waypoll1= 0
+waypoll2= -7
+waypoll3= 26
+notch= 71
+--------
+i= 112
+code= F
+val= 92
+--------
+x= 6281
+y= 4058
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 26
+notch= 71
+--------
+i= 113
+code= S
+val= 4
+--------
+x= 6281
+y= 4058
+waypoll0= 7
+waypoll1= 0
+waypoll2= 4
+waypoll3= 26
+notch= 71
+--------
+i= 114
+code= R
+val= 180
+--------
+x= 6281
+y= 4058
+waypoll0= 7
+waypoll1= 0
+waypoll2= 4
+waypoll3= 26
+notch= 73
+--------
+i= 115
+code= L
+val= 90
+--------
+x= 6281
+y= 4058
+waypoll0= 7
+waypoll1= 0
+waypoll2= 4
+waypoll3= 26
+notch= 76
+--------
+i= 116
+code= S
+val= 1
+--------
+x= 6281
+y= 4058
+waypoll0= 7
+waypoll1= 0
+waypoll2= 4
+waypoll3= 27
+notch= 76
+--------
+i= 117
+code= L
+val= 90
+--------
+x= 6281
+y= 4058
+waypoll0= 7
+waypoll1= 0
+waypoll2= 4
+waypoll3= 27
+notch= 79
+--------
+i= 118
+code= F
+val= 98
+--------
+x= 8927
+y= 4352
+waypoll0= 3
+waypoll1= 0
+waypoll2= 0
+waypoll3= 27
+notch= 79
+--------
+i= 119
+code= N
+val= 4
+--------
+x= 8927
+y= 4352
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 27
+notch= 79
+--------
+i= 120
+code= E
+val= 3
+--------
+x= 8927
+y= 4352
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 30
+notch= 79
+--------
+i= 121
+code= F
+val= 69
+--------
+x= 10997
+y= 4835
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 30
+notch= 79
+--------
+i= 122
+code= S
+val= 3
+--------
+x= 10997
+y= 4835
+waypoll0= 7
+waypoll1= 0
+waypoll2= 3
+waypoll3= 30
+notch= 79
+--------
+i= 123
+code= R
+val= 180
+--------
+x= 10997
+y= 4835
+waypoll0= 7
+waypoll1= 0
+waypoll2= 3
+waypoll3= 30
+notch= 81
+--------
+i= 124
+code= F
+val= 59
+--------
+x= 9227
+y= 4599
+waypoll0= 0
+waypoll1= -30
+waypoll2= -4
+waypoll3= 0
+notch= 81
+--------
+i= 125
+code= S
+val= 5
+--------
+x= 9227
+y= 4599
+waypoll0= 5
+waypoll1= -30
+waypoll2= -4
+waypoll3= 0
+notch= 81
+--------
+i= 126
+code= R
+val= 90
+--------
+x= 9227
+y= 4599
+waypoll0= 5
+waypoll1= -30
+waypoll2= -4
+waypoll3= 0
+notch= 82
+--------
+i= 127
+code= F
+val= 32
+--------
+x= 8939
+y= 5559
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= 30
+notch= 82
+--------
+i= 128
+code= E
+val= 5
+--------
+x= 8939
+y= 5559
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 30
+notch= 82
+--------
+i= 129
+code= S
+val= 4
+--------
+x= 8939
+y= 5559
+waypoll0= 0
+waypoll1= 4
+waypoll2= -4
+waypoll3= 30
+notch= 82
+--------
+i= 130
+code= W
+val= 4
+--------
+x= 8939
+y= 5559
+waypoll0= 4
+waypoll1= 4
+waypoll2= -4
+waypoll3= 30
+notch= 82
+--------
+i= 131
+code= F
+val= 9
+--------
+x= 8867
+y= 5793
+waypoll0= 0
+waypoll1= 0
+waypoll2= -8
+waypoll3= 26
+notch= 82
+--------
+i= 132
+code= R
+val= 180
+--------
+x= 8867
+y= 5793
+waypoll0= 0
+waypoll1= 0
+waypoll2= -8
+waypoll3= 26
+notch= 84
+--------
+i= 133
+code= F
+val= 44
+--------
+x= 9219
+y= 4649
+waypoll0= 8
+waypoll1= -26
+waypoll2= 0
+waypoll3= 0
+notch= 84
+--------
+i= 134
+code= L
+val= 90
+--------
+x= 9219
+y= 4649
+waypoll0= 8
+waypoll1= -26
+waypoll2= 0
+waypoll3= 0
+notch= 87
+--------
+i= 135
+code= W
+val= 1
+--------
+x= 9219
+y= 4649
+waypoll0= 8
+waypoll1= -25
+waypoll2= 0
+waypoll3= 0
+notch= 87
+--------
+i= 136
+code= L
+val= 180
+--------
+x= 9219
+y= 4649
+waypoll0= 8
+waypoll1= -25
+waypoll2= 0
+waypoll3= 0
+notch= 93
+--------
+i= 137
+code= F
+val= 74
+--------
+x= 7369
+y= 4057
+waypoll0= 0
+waypoll1= -25
+waypoll2= -8
+waypoll3= 0
+notch= 93
+--------
+i= 138
+code= W
+val= 1
+--------
+x= 7369
+y= 4057
+waypoll0= 0
+waypoll1= -25
+waypoll2= -8
+waypoll3= 1
+notch= 93
+--------
+i= 139
+code= F
+val= 55
+--------
+x= 5939
+y= 3617
+waypoll0= 0
+waypoll1= -26
+waypoll2= -8
+waypoll3= 0
+notch= 93
+--------
+i= 140
+code= R
+val= 270
+--------
+x= 5939
+y= 3617
+waypoll0= 0
+waypoll1= -26
+waypoll2= -8
+waypoll3= 0
+notch= 96
+--------
+i= 141
+code= S
+val= 3
+--------
+x= 5939
+y= 3617
+waypoll0= 0
+waypoll1= -26
+waypoll2= -8
+waypoll3= 3
+notch= 96
+--------
+i= 142
+code= F
+val= 62
+--------
+x= 6435
+y= 1819
+waypoll0= 8
+waypoll1= -29
+waypoll2= 0
+waypoll3= 0
+notch= 96
+--------
+i= 143
+code= W
+val= 3
+--------
+x= 6435
+y= 1819
+waypoll0= 8
+waypoll1= -29
+waypoll2= 3
+waypoll3= 0
+notch= 96
+--------
+i= 144
+code= F
+val= 61
+--------
+x= 6740
+y= 50
+waypoll0= 5
+waypoll1= -29
+waypoll2= 0
+waypoll3= 0
+notch= 96
+--------
+i= 145
+code= N
+val= 2
+--------
+x= 6740
+y= 50
+waypoll0= 5
+waypoll1= -27
+waypoll2= 0
+waypoll3= 0
+notch= 96
+--------
+i= 146
+code= L
+val= 90
+--------
+x= 6740
+y= 50
+waypoll0= 5
+waypoll1= -27
+waypoll2= 0
+waypoll3= 0
+notch= 99
+--------
+i= 147
+code= F
+val= 43
+--------
+x= 7901
+y= 265
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 27
+notch= 99
+--------
+i= 148
+code= S
+val= 3
+--------
+x= 7901
+y= 265
+waypoll0= 5
+waypoll1= 0
+waypoll2= 3
+waypoll3= 27
+notch= 99
+--------
+i= 149
+code= F
+val= 86
+--------
+x= 10223
+y= 437
+waypoll0= 2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 27
+notch= 99
+--------
+i= 150
+code= W
+val= 1
+--------
+x= 10223
+y= 437
+waypoll0= 2
+waypoll1= 1
+waypoll2= 0
+waypoll3= 27
+notch= 99
+--------
+i= 151
+code= S
+val= 3
+--------
+x= 10223
+y= 437
+waypoll0= 2
+waypoll1= 1
+waypoll2= 3
+waypoll3= 27
+notch= 99
+--------
+i= 152
+code= E
+val= 3
+--------
+x= 10223
+y= 437
+waypoll0= 2
+waypoll1= 1
+waypoll2= 3
+waypoll3= 30
+notch= 99
+--------
+i= 153
+code= F
+val= 34
+--------
+x= 11209
+y= 403
+waypoll0= -1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 29
+notch= 99
+--------
+i= 154
+code= L
+val= 90
+--------
+x= 11209
+y= 403
+waypoll0= -1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 29
+notch= 102
+--------
+i= 155
+code= F
+val= 77
+--------
+x= 11286
+y= 2636
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 29
+notch= 102
+--------
+i= 156
+code= N
+val= 1
+--------
+x= 11286
+y= 2636
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 30
+notch= 102
+--------
+i= 157
+code= F
+val= 27
+--------
+x= 11313
+y= 3446
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 30
+notch= 102
+--------
+i= 158
+code= N
+val= 5
+--------
+x= 11313
+y= 3446
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 35
+notch= 102
+--------
+i= 159
+code= W
+val= 5
+--------
+x= 11313
+y= 3446
+waypoll0= 5
+waypoll1= 0
+waypoll2= 1
+waypoll3= 35
+notch= 102
+--------
+i= 160
+code= N
+val= 3
+--------
+x= 11313
+y= 3446
+waypoll0= 5
+waypoll1= 0
+waypoll2= 1
+waypoll3= 38
+notch= 102
+--------
+i= 161
+code= F
+val= 80
+--------
+x= 10993
+y= 6486
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 38
+notch= 102
+--------
+i= 162
+code= E
+val= 2
+--------
+x= 10993
+y= 6486
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 38
+notch= 102
+--------
+i= 163
+code= L
+val= 180
+--------
+x= 10993
+y= 6486
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 38
+notch= 108
+--------
+i= 164
+code= F
+val= 59
+--------
+x= 11111
+y= 4244
+waypoll0= 2
+waypoll1= -38
+waypoll2= 0
+waypoll3= 0
+notch= 108
+--------
+i= 165
+code= W
+val= 1
+--------
+x= 11111
+y= 4244
+waypoll0= 2
+waypoll1= -38
+waypoll2= 1
+waypoll3= 0
+notch= 108
+--------
+i= 166
+code= L
+val= 90
+--------
+x= 11111
+y= 4244
+waypoll0= 2
+waypoll1= -38
+waypoll2= 1
+waypoll3= 0
+notch= 111
+--------
+i= 167
+code= N
+val= 4
+--------
+x= 11111
+y= 4244
+waypoll0= 6
+waypoll1= -38
+waypoll2= 1
+waypoll3= 0
+notch= 111
+--------
+i= 168
+code= R
+val= 90
+--------
+x= 11111
+y= 4244
+waypoll0= 6
+waypoll1= -38
+waypoll2= 1
+waypoll3= 0
+notch= 112
+--------
+i= 169
+code= W
+val= 5
+--------
+x= 11111
+y= 4244
+waypoll0= 6
+waypoll1= -38
+waypoll2= 6
+waypoll3= 0
+notch= 112
+--------
+i= 170
+code= L
+val= 180
+--------
+x= 11111
+y= 4244
+waypoll0= 6
+waypoll1= -38
+waypoll2= 6
+waypoll3= 0
+notch= 118
+--------
+i= 171
+code= W
+val= 5
+--------
+x= 11111
+y= 4244
+waypoll0= 11
+waypoll1= -38
+waypoll2= 6
+waypoll3= 0
+notch= 118
+--------
+i= 172
+code= L
+val= 90
+--------
+x= 11111
+y= 4244
+waypoll0= 11
+waypoll1= -38
+waypoll2= 6
+waypoll3= 0
+notch= 121
+--------
+i= 173
+code= F
+val= 17
+--------
+x= 10465
+y= 4159
+waypoll0= 0
+waypoll1= -38
+waypoll2= -5
+waypoll3= 0
+notch= 121
+--------
+i= 174
+code= E
+val= 5
+--------
+x= 10465
+y= 4159
+waypoll0= 0
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 121
+--------
+i= 175
+code= L
+val= 180
+--------
+x= 10465
+y= 4159
+waypoll0= 0
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 127
+--------
+i= 176
+code= W
+val= 4
+--------
+x= 10465
+y= 4159
+waypoll0= 0
+waypoll1= -29
+waypoll2= -5
+waypoll3= 0
+notch= 127
+--------
+i= 177
+code= R
+val= 180
+--------
+x= 10465
+y= 4159
+waypoll0= 0
+waypoll1= -29
+waypoll2= -5
+waypoll3= 0
+notch= 129
+--------
+i= 178
+code= W
+val= 4
+--------
+x= 10465
+y= 4159
+waypoll0= 0
+waypoll1= -29
+waypoll2= -5
+waypoll3= 4
+notch= 129
+--------
+i= 179
+code= F
+val= 70
+--------
+x= 8155
+y= 3809
+waypoll0= 0
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 129
+--------
+i= 180
+code= S
+val= 5
+--------
+x= 8155
+y= 3809
+waypoll0= 5
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 129
+--------
+i= 181
+code= R
+val= 90
+--------
+x= 8155
+y= 3809
+waypoll0= 5
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 130
+--------
+i= 182
+code= W
+val= 4
+--------
+x= 8155
+y= 3809
+waypoll0= 9
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 130
+--------
+i= 183
+code= W
+val= 4
+--------
+x= 8155
+y= 3809
+waypoll0= 13
+waypoll1= -33
+waypoll2= -5
+waypoll3= 0
+notch= 130
+--------
+i= 184
+code= N
+val= 3
+--------
+x= 8155
+y= 3809
+waypoll0= 13
+waypoll1= -33
+waypoll2= -5
+waypoll3= 3
+notch= 130
+--------
+i= 185
+code= W
+val= 1
+--------
+x= 8155
+y= 3809
+waypoll0= 14
+waypoll1= -33
+waypoll2= -5
+waypoll3= 3
+notch= 130
+--------
+i= 186
+code= N
+val= 2
+--------
+x= 8155
+y= 3809
+waypoll0= 14
+waypoll1= -33
+waypoll2= -5
+waypoll3= 5
+notch= 130
+--------
+i= 187
+code= E
+val= 5
+--------
+x= 8155
+y= 3809
+waypoll0= 14
+waypoll1= -33
+waypoll2= 0
+waypoll3= 5
+notch= 130
+--------
+i= 188
+code= F
+val= 53
+--------
+x= 7413
+y= 5823
+waypoll0= 0
+waypoll1= 0
+waypoll2= -14
+waypoll3= 38
+notch= 130
+--------
+i= 189
+code= N
+val= 5
+--------
+x= 7413
+y= 5823
+waypoll0= 0
+waypoll1= 0
+waypoll2= -14
+waypoll3= 43
+notch= 130
+--------
+i= 190
+code= R
+val= 90
+--------
+x= 7413
+y= 5823
+waypoll0= 0
+waypoll1= 0
+waypoll2= -14
+waypoll3= 43
+notch= 131
+--------
+i= 191
+code= R
+val= 90
+--------
+x= 7413
+y= 5823
+waypoll0= 0
+waypoll1= 0
+waypoll2= -14
+waypoll3= 43
+notch= 132
+--------
+i= 192
+code= E
+val= 2
+--------
+x= 7413
+y= 5823
+waypoll0= 2
+waypoll1= 0
+waypoll2= -14
+waypoll3= 43
+notch= 132
+--------
+i= 193
+code= N
+val= 5
+--------
+x= 7413
+y= 5823
+waypoll0= 2
+waypoll1= 5
+waypoll2= -14
+waypoll3= 43
+notch= 132
+--------
+i= 194
+code= R
+val= 270
+--------
+x= 7413
+y= 5823
+waypoll0= 2
+waypoll1= 5
+waypoll2= -14
+waypoll3= 43
+notch= 135
+--------
+i= 195
+code= S
+val= 5
+--------
+x= 7413
+y= 5823
+waypoll0= 2
+waypoll1= 5
+waypoll2= -9
+waypoll3= 43
+notch= 135
+--------
+i= 196
+code= R
+val= 90
+--------
+x= 7413
+y= 5823
+waypoll0= 2
+waypoll1= 5
+waypoll2= -9
+waypoll3= 43
+notch= 136
+--------
+i= 197
+code= N
+val= 5
+--------
+x= 7413
+y= 5823
+waypoll0= 2
+waypoll1= 10
+waypoll2= -9
+waypoll3= 43
+notch= 136
+--------
+i= 198
+code= E
+val= 1
+--------
+x= 7413
+y= 5823
+waypoll0= 3
+waypoll1= 10
+waypoll2= -9
+waypoll3= 43
+notch= 136
+--------
+i= 199
+code= R
+val= 90
+--------
+x= 7413
+y= 5823
+waypoll0= 3
+waypoll1= 10
+waypoll2= -9
+waypoll3= 43
+notch= 137
+--------
+i= 200
+code= F
+val= 76
+--------
+x= 4905
+y= 4911
+waypoll0= 0
+waypoll1= -33
+waypoll2= -12
+waypoll3= 0
+notch= 137
+--------
+i= 201
+code= R
+val= 90
+--------
+x= 4905
+y= 4911
+waypoll0= 0
+waypoll1= -33
+waypoll2= -12
+waypoll3= 0
+notch= 138
+--------
+i= 202
+code= W
+val= 3
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -33
+waypoll2= -12
+waypoll3= 0
+notch= 138
+--------
+i= 203
+code= S
+val= 2
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -31
+waypoll2= -12
+waypoll3= 0
+notch= 138
+--------
+i= 204
+code= R
+val= 90
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -31
+waypoll2= -12
+waypoll3= 0
+notch= 139
+--------
+i= 205
+code= S
+val= 5
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -31
+waypoll2= -7
+waypoll3= 0
+notch= 139
+--------
+i= 206
+code= E
+val= 1
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -31
+waypoll2= -7
+waypoll3= 1
+notch= 139
+--------
+i= 207
+code= L
+val= 90
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -31
+waypoll2= -7
+waypoll3= 1
+notch= 142
+--------
+i= 208
+code= E
+val= 2
+--------
+x= 4905
+y= 4911
+waypoll0= 3
+waypoll1= -31
+waypoll2= -5
+waypoll3= 1
+notch= 142
+--------
+i= 209
+code= F
+val= 58
+--------
+x= 4441
+y= 6767
+waypoll0= 0
+waypoll1= 0
+waypoll2= -8
+waypoll3= 32
+notch= 142
+--------
+i= 210
+code= R
+val= 90
+--------
+x= 4441
+y= 6767
+waypoll0= 0
+waypoll1= 0
+waypoll2= -8
+waypoll3= 32
+notch= 143
+--------
+i= 211
+code= F
+val= 15
+--------
+x= 4921
+y= 6887
+waypoll0= 8
+waypoll1= 0
+waypoll2= 0
+waypoll3= 32
+notch= 143
+--------
+i= 212
+code= N
+val= 2
+--------
+x= 4921
+y= 6887
+waypoll0= 10
+waypoll1= 0
+waypoll2= 0
+waypoll3= 32
+notch= 143
+--------
+i= 213
+code= L
+val= 90
+--------
+x= 4921
+y= 6887
+waypoll0= 10
+waypoll1= 0
+waypoll2= 0
+waypoll3= 32
+notch= 146
+--------
+i= 214
+code= N
+val= 5
+--------
+x= 4921
+y= 6887
+waypoll0= 10
+waypoll1= 0
+waypoll2= 0
+waypoll3= 37
+notch= 146
+--------
+i= 215
+code= F
+val= 65
+--------
+x= 4271
+y= 9292
+waypoll0= 0
+waypoll1= 0
+waypoll2= -10
+waypoll3= 37
+notch= 146
+--------
+i= 216
+code= E
+val= 5
+--------
+x= 4271
+y= 9292
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= 37
+notch= 146
+--------
+i= 217
+code= N
+val= 2
+--------
+x= 4271
+y= 9292
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= 39
+notch= 146
+--------
+i= 218
+code= R
+val= 90
+--------
+x= 4271
+y= 9292
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= 39
+notch= 147
+--------
+i= 219
+code= W
+val= 1
+--------
+x= 4271
+y= 9292
+waypoll0= 0
+waypoll1= 1
+waypoll2= -5
+waypoll3= 39
+notch= 147
+--------
+i= 220
+code= F
+val= 40
+--------
+x= 5791
+y= 9492
+waypoll0= 5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 38
+notch= 147
+--------
+i= 221
+code= S
+val= 4
+--------
+x= 5791
+y= 9492
+waypoll0= 5
+waypoll1= 0
+waypoll2= 4
+waypoll3= 38
+notch= 147
+--------
+i= 222
+code= R
+val= 90
+--------
+x= 5791
+y= 9492
+waypoll0= 5
+waypoll1= 0
+waypoll2= 4
+waypoll3= 38
+notch= 148
+--------
+i= 223
+code= F
+val= 23
+--------
+x= 5814
+y= 8618
+waypoll0= 1
+waypoll1= -38
+waypoll2= 0
+waypoll3= 0
+notch= 148
+--------
+i= 224
+code= W
+val= 4
+--------
+x= 5814
+y= 8618
+waypoll0= 1
+waypoll1= -38
+waypoll2= 4
+waypoll3= 0
+notch= 148
+--------
+i= 225
+code= R
+val= 90
+--------
+x= 5814
+y= 8618
+waypoll0= 1
+waypoll1= -38
+waypoll2= 4
+waypoll3= 0
+notch= 149
+--------
+i= 226
+code= W
+val= 4
+--------
+x= 5814
+y= 8618
+waypoll0= 1
+waypoll1= -38
+waypoll2= 4
+waypoll3= 4
+notch= 149
+--------
+i= 227
+code= F
+val= 17
+--------
+x= 5100
+y= 8669
+waypoll0= 0
+waypoll1= -42
+waypoll2= 3
+waypoll3= 0
+notch= 149
+--------
+i= 228
+code= S
+val= 2
+--------
+x= 5100
+y= 8669
+waypoll0= 2
+waypoll1= -42
+waypoll2= 3
+waypoll3= 0
+notch= 149
+--------
+i= 229
+code= R
+val= 90
+--------
+x= 5100
+y= 8669
+waypoll0= 2
+waypoll1= -42
+waypoll2= 3
+waypoll3= 0
+notch= 150
+--------
+i= 230
+code= E
+val= 4
+--------
+x= 5100
+y= 8669
+waypoll0= 2
+waypoll1= -42
+waypoll2= 7
+waypoll3= 0
+notch= 150
+--------
+i= 231
+code= F
+val= 58
+--------
+x= 5390
+y= 11105
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 42
+notch= 150
+--------
+i= 232
+code= R
+val= 90
+--------
+x= 5390
+y= 11105
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 42
+notch= 151
+--------
+i= 233
+code= L
+val= 90
+--------
+x= 5390
+y= 11105
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 42
+notch= 154
+--------
+i= 234
+code= F
+val= 64
+--------
+x= 5710
+y= 13793
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 42
+notch= 154
+--------
+i= 235
+code= N
+val= 4
+--------
+x= 5710
+y= 13793
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 46
+notch= 154
+--------
+i= 236
+code= F
+val= 63
+--------
+x= 6025
+y= 16691
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 46
+notch= 154
+--------
+i= 237
+code= E
+val= 5
+--------
+x= 6025
+y= 16691
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 46
+notch= 154
+--------
+i= 238
+code= N
+val= 1
+--------
+x= 6025
+y= 16691
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 47
+notch= 154
+--------
+i= 239
+code= F
+val= 38
+--------
+x= 6405
+y= 18477
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 47
+notch= 154
+--------
+i= 240
+code= N
+val= 3
+--------
+x= 6405
+y= 18477
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 50
+notch= 154
+--------
+i= 241
+code= F
+val= 19
+--------
+x= 6595
+y= 19427
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 50
+notch= 154
+--------
+i= 242
+code= E
+val= 5
+--------
+x= 6595
+y= 19427
+waypoll0= 0
+waypoll1= 0
+waypoll2= 15
+waypoll3= 50
+notch= 154
+--------
+i= 243
+code= S
+val= 4
+--------
+x= 6595
+y= 19427
+waypoll0= 0
+waypoll1= 4
+waypoll2= 15
+waypoll3= 50
+notch= 154
+--------
+i= 244
+code= F
+val= 14
+--------
+x= 6805
+y= 20071
+waypoll0= 0
+waypoll1= 0
+waypoll2= 15
+waypoll3= 46
+notch= 154
+--------
+i= 245
+code= R
+val= 90
+--------
+x= 6805
+y= 20071
+waypoll0= 0
+waypoll1= 0
+waypoll2= 15
+waypoll3= 46
+notch= 155
+--------
+i= 246
+code= S
+val= 3
+--------
+x= 6805
+y= 20071
+waypoll0= 0
+waypoll1= 0
+waypoll2= 18
+waypoll3= 46
+notch= 155
+--------
+i= 247
+code= E
+val= 2
+--------
+x= 6805
+y= 20071
+waypoll0= 0
+waypoll1= 0
+waypoll2= 18
+waypoll3= 48
+notch= 155
+--------
+i= 248
+code= S
+val= 4
+--------
+x= 6805
+y= 20071
+waypoll0= 0
+waypoll1= 0
+waypoll2= 22
+waypoll3= 48
+notch= 155
+--------
+i= 249
+code= E
+val= 1
+--------
+x= 6805
+y= 20071
+waypoll0= 0
+waypoll1= 0
+waypoll2= 22
+waypoll3= 49
+notch= 155
+--------
+i= 250
+code= F
+val= 12
+--------
+x= 7393
+y= 19807
+waypoll0= -22
+waypoll1= 0
+waypoll2= 0
+waypoll3= 49
+notch= 155
+--------
+i= 251
+code= W
+val= 3
+--------
+x= 7393
+y= 19807
+waypoll0= -22
+waypoll1= 3
+waypoll2= 0
+waypoll3= 49
+notch= 155
+--------
+i= 252
+code= L
+val= 90
+--------
+x= 7393
+y= 19807
+waypoll0= -22
+waypoll1= 3
+waypoll2= 0
+waypoll3= 49
+notch= 158
+--------
+i= 253
+code= F
+val= 33
+--------
+x= 8119
+y= 21325
+waypoll0= 0
+waypoll1= 0
+waypoll2= 22
+waypoll3= 46
+notch= 158
+--------
+i= 254
+code= S
+val= 4
+--------
+x= 8119
+y= 21325
+waypoll0= 0
+waypoll1= 4
+waypoll2= 22
+waypoll3= 46
+notch= 158
+--------
+i= 255
+code= W
+val= 3
+--------
+x= 8119
+y= 21325
+waypoll0= 3
+waypoll1= 4
+waypoll2= 22
+waypoll3= 46
+notch= 158
+--------
+i= 256
+code= F
+val= 29
+--------
+x= 8670
+y= 22543
+waypoll0= 0
+waypoll1= 0
+waypoll2= 19
+waypoll3= 42
+notch= 158
+--------
+i= 257
+code= R
+val= 90
+--------
+x= 8670
+y= 22543
+waypoll0= 0
+waypoll1= 0
+waypoll2= 19
+waypoll3= 42
+notch= 159
+--------
+i= 258
+code= N
+val= 3
+--------
+x= 8670
+y= 22543
+waypoll0= 3
+waypoll1= 0
+waypoll2= 19
+waypoll3= 42
+notch= 159
+--------
+i= 259
+code= F
+val= 44
+--------
+x= 10518
+y= 21839
+waypoll0= -16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 42
+notch= 159
+--------
+i= 260
+code= E
+val= 5
+--------
+x= 10518
+y= 21839
+waypoll0= -16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 159
+--------
+i= 261
+code= N
+val= 1
+--------
+x= 10518
+y= 21839
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 159
+--------
+i= 262
+code= F
+val= 49
+--------
+x= 12821
+y= 21104
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 159
+--------
+i= 263
+code= W
+val= 5
+--------
+x= 12821
+y= 21104
+waypoll0= -15
+waypoll1= 5
+waypoll2= 0
+waypoll3= 47
+notch= 159
+--------
+i= 264
+code= F
+val= 52
+--------
+x= 15005
+y= 20324
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 42
+notch= 159
+--------
+i= 265
+code= N
+val= 5
+--------
+x= 15005
+y= 20324
+waypoll0= -10
+waypoll1= 0
+waypoll2= 0
+waypoll3= 42
+notch= 159
+--------
+i= 266
+code= L
+val= 90
+--------
+x= 15005
+y= 20324
+waypoll0= -10
+waypoll1= 0
+waypoll2= 0
+waypoll3= 42
+notch= 162
+--------
+i= 267
+code= S
+val= 4
+--------
+x= 15005
+y= 20324
+waypoll0= -10
+waypoll1= 4
+waypoll2= 0
+waypoll3= 42
+notch= 162
+--------
+i= 268
+code= F
+val= 31
+--------
+x= 15315
+y= 21502
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 38
+notch= 162
+--------
+i= 269
+code= R
+val= 90
+--------
+x= 15315
+y= 21502
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 38
+notch= 163
+--------
+i= 270
+code= N
+val= 3
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 0
+waypoll2= 10
+waypoll3= 38
+notch= 163
+--------
+i= 271
+code= L
+val= 270
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 0
+waypoll2= 10
+waypoll3= 38
+notch= 172
+--------
+i= 272
+code= L
+val= 270
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 0
+waypoll2= 10
+waypoll3= 38
+notch= 181
+--------
+i= 273
+code= E
+val= 4
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 10
+waypoll3= 38
+notch= 181
+--------
+i= 274
+code= N
+val= 4
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 14
+waypoll3= 38
+notch= 181
+--------
+i= 275
+code= W
+val= 1
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 14
+waypoll3= 39
+notch= 181
+--------
+i= 276
+code= L
+val= 90
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 14
+waypoll3= 39
+notch= 184
+--------
+i= 277
+code= S
+val= 5
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 14
+waypoll3= 44
+notch= 184
+--------
+i= 278
+code= W
+val= 4
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 18
+waypoll3= 44
+notch= 184
+--------
+i= 279
+code= R
+val= 180
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 18
+waypoll3= 44
+notch= 186
+--------
+i= 280
+code= N
+val= 3
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 18
+waypoll3= 47
+notch= 186
+--------
+i= 281
+code= L
+val= 180
+--------
+x= 15315
+y= 21502
+waypoll0= 3
+waypoll1= 4
+waypoll2= 18
+waypoll3= 47
+notch= 192
+--------
+i= 282
+code= F
+val= 2
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 0
+waypoll3= 0
+notch= 192
+--------
+i= 283
+code= S
+val= 1
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 0
+waypoll3= 1
+notch= 192
+--------
+i= 284
+code= L
+val= 180
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 0
+waypoll3= 1
+notch= 198
+--------
+i= 285
+code= N
+val= 3
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 0
+waypoll3= 4
+notch= 198
+--------
+i= 286
+code= L
+val= 90
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 0
+waypoll3= 4
+notch= 201
+--------
+i= 287
+code= N
+val= 1
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 1
+waypoll3= 4
+notch= 201
+--------
+i= 288
+code= W
+val= 4
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 1
+waypoll3= 8
+notch= 201
+--------
+i= 289
+code= R
+val= 180
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -43
+waypoll2= 1
+waypoll3= 8
+notch= 203
+--------
+i= 290
+code= W
+val= 5
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -38
+waypoll2= 1
+waypoll3= 8
+notch= 203
+--------
+i= 291
+code= R
+val= 270
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -38
+waypoll2= 1
+waypoll3= 8
+notch= 206
+--------
+i= 292
+code= N
+val= 4
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -38
+waypoll2= 1
+waypoll3= 12
+notch= 206
+--------
+i= 293
+code= L
+val= 180
+--------
+x= 15285
+y= 21416
+waypoll0= -15
+waypoll1= -38
+waypoll2= 1
+waypoll3= 12
+notch= 212
+--------
+i= 294
+code= F
+val= 51
+--------
+x= 14469
+y= 18866
+waypoll0= -16
+waypoll1= -50
+waypoll2= 0
+waypoll3= 0
+notch= 212
+--------
+i= 295
+code= R
+val= 180
+--------
+x= 14469
+y= 18866
+waypoll0= -16
+waypoll1= -50
+waypoll2= 0
+waypoll3= 0
+notch= 214
+--------
+i= 296
+code= S
+val= 5
+--------
+x= 14469
+y= 18866
+waypoll0= -16
+waypoll1= -45
+waypoll2= 0
+waypoll3= 0
+notch= 214
+--------
+i= 297
+code= F
+val= 35
+--------
+x= 15029
+y= 20441
+waypoll0= 0
+waypoll1= 0
+waypoll2= 16
+waypoll3= 45
+notch= 214
+--------
+i= 298
+code= E
+val= 3
+--------
+x= 15029
+y= 20441
+waypoll0= 0
+waypoll1= 0
+waypoll2= 19
+waypoll3= 45
+notch= 214
+--------
+i= 299
+code= R
+val= 180
+--------
+x= 15029
+y= 20441
+waypoll0= 0
+waypoll1= 0
+waypoll2= 19
+waypoll3= 45
+notch= 216
+--------
+i= 300
+code= F
+val= 1
+--------
+x= 15010
+y= 20396
+waypoll0= -19
+waypoll1= -45
+waypoll2= 0
+waypoll3= 0
+notch= 216
+--------
+i= 301
+code= S
+val= 3
+--------
+x= 15010
+y= 20396
+waypoll0= -19
+waypoll1= -45
+waypoll2= 0
+waypoll3= 3
+notch= 216
+--------
+i= 302
+code= E
+val= 2
+--------
+x= 15010
+y= 20396
+waypoll0= -17
+waypoll1= -45
+waypoll2= 0
+waypoll3= 3
+notch= 216
+--------
+i= 303
+code= F
+val= 47
+--------
+x= 14211
+y= 18140
+waypoll0= -17
+waypoll1= -48
+waypoll2= 0
+waypoll3= 0
+notch= 216
+--------
+i= 304
+code= E
+val= 4
+--------
+x= 14211
+y= 18140
+waypoll0= -13
+waypoll1= -48
+waypoll2= 0
+waypoll3= 0
+notch= 216
+--------
+i= 305
+code= S
+val= 5
+--------
+x= 14211
+y= 18140
+waypoll0= -13
+waypoll1= -48
+waypoll2= 0
+waypoll3= 5
+notch= 216
+--------
+i= 306
+code= E
+val= 1
+--------
+x= 14211
+y= 18140
+waypoll0= -12
+waypoll1= -48
+waypoll2= 0
+waypoll3= 5
+notch= 216
+--------
+i= 307
+code= L
+val= 90
+--------
+x= 14211
+y= 18140
+waypoll0= -12
+waypoll1= -48
+waypoll2= 0
+waypoll3= 5
+notch= 219
+--------
+i= 308
+code= F
+val= 16
+--------
+x= 15059
+y= 17948
+waypoll0= -12
+waypoll1= 0
+waypoll2= 0
+waypoll3= 53
+notch= 219
+--------
+i= 309
+code= S
+val= 4
+--------
+x= 15059
+y= 17948
+waypoll0= -12
+waypoll1= 0
+waypoll2= 4
+waypoll3= 53
+notch= 219
+--------
+i= 310
+code= F
+val= 17
+--------
+x= 15960
+y= 17676
+waypoll0= -16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 53
+notch= 219
+--------
+i= 311
+code= N
+val= 1
+--------
+x= 15960
+y= 17676
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 53
+notch= 219
+--------
+i= 312
+code= W
+val= 2
+--------
+x= 15960
+y= 17676
+waypoll0= -15
+waypoll1= 2
+waypoll2= 0
+waypoll3= 53
+notch= 219
+--------
+i= 313
+code= L
+val= 90
+--------
+x= 15960
+y= 17676
+waypoll0= -15
+waypoll1= 2
+waypoll2= 0
+waypoll3= 53
+notch= 222
+--------
+i= 314
+code= F
+val= 99
+--------
+x= 17445
+y= 22725
+waypoll0= 0
+waypoll1= 0
+waypoll2= 15
+waypoll3= 51
+notch= 222
+--------
+i= 315
+code= E
+val= 1
+--------
+x= 17445
+y= 22725
+waypoll0= 0
+waypoll1= 0
+waypoll2= 16
+waypoll3= 51
+notch= 222
+--------
+i= 316
+code= R
+val= 180
+--------
+x= 17445
+y= 22725
+waypoll0= 0
+waypoll1= 0
+waypoll2= 16
+waypoll3= 51
+notch= 224
+--------
+i= 317
+code= N
+val= 1
+--------
+x= 17445
+y= 22725
+waypoll0= 0
+waypoll1= 1
+waypoll2= 16
+waypoll3= 51
+notch= 224
+--------
+i= 318
+code= F
+val= 78
+--------
+x= 16197
+y= 18825
+waypoll0= -16
+waypoll1= -50
+waypoll2= 0
+waypoll3= 0
+notch= 224
+--------
+i= 319
+code= L
+val= 90
+--------
+x= 16197
+y= 18825
+waypoll0= -16
+waypoll1= -50
+waypoll2= 0
+waypoll3= 0
+notch= 227
+--------
+i= 320
+code= F
+val= 18
+--------
+x= 17097
+y= 18537
+waypoll0= -16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 50
+notch= 227
+--------
+i= 321
+code= S
+val= 2
+--------
+x= 17097
+y= 18537
+waypoll0= -16
+waypoll1= 0
+waypoll2= 2
+waypoll3= 50
+notch= 227
+--------
+i= 322
+code= W
+val= 3
+--------
+x= 17097
+y= 18537
+waypoll0= -16
+waypoll1= 3
+waypoll2= 2
+waypoll3= 50
+notch= 227
+--------
+i= 323
+code= N
+val= 2
+--------
+x= 17097
+y= 18537
+waypoll0= -14
+waypoll1= 3
+waypoll2= 2
+waypoll3= 50
+notch= 227
+--------
+i= 324
+code= F
+val= 56
+--------
+x= 19729
+y= 17641
+waypoll0= -16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 227
+--------
+i= 325
+code= R
+val= 270
+--------
+x= 19729
+y= 17641
+waypoll0= -16
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 230
+--------
+i= 326
+code= W
+val= 1
+--------
+x= 19729
+y= 17641
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 230
+--------
+i= 327
+code= R
+val= 90
+--------
+x= 19729
+y= 17641
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 231
+--------
+i= 328
+code= F
+val= 53
+--------
+x= 22220
+y= 16846
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 231
+--------
+i= 329
+code= L
+val= 180
+--------
+x= 22220
+y= 16846
+waypoll0= -15
+waypoll1= 0
+waypoll2= 0
+waypoll3= 47
+notch= 237
+--------
+i= 330
+code= F
+val= 6
+--------
+x= 21938
+y= 16936
+waypoll0= 0
+waypoll1= -47
+waypoll2= 15
+waypoll3= 0
+notch= 237
+--------
+i= 331
+code= W
+val= 5
+--------
+x= 21938
+y= 16936
+waypoll0= 0
+waypoll1= -47
+waypoll2= 15
+waypoll3= 5
+notch= 237
+--------
+i= 332
+code= R
+val= 90
+--------
+x= 21938
+y= 16936
+waypoll0= 0
+waypoll1= -47
+waypoll2= 15
+waypoll3= 5
+notch= 238
+--------
+i= 333
+code= W
+val= 4
+--------
+x= 21938
+y= 16936
+waypoll0= 4
+waypoll1= -47
+waypoll2= 15
+waypoll3= 5
+notch= 238
+--------
+i= 334
+code= F
+val= 27
+--------
+x= 22235
+y= 18340
+waypoll0= 0
+waypoll1= 0
+waypoll2= 11
+waypoll3= 52
+notch= 238
+--------
+i= 335
+code= R
+val= 90
+--------
+x= 22235
+y= 18340
+waypoll0= 0
+waypoll1= 0
+waypoll2= 11
+waypoll3= 52
+notch= 239
+--------
+i= 336
+code= F
+val= 73
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 0
+waypoll3= 52
+notch= 239
+--------
+i= 337
+code= E
+val= 5
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 0
+waypoll3= 57
+notch= 239
+--------
+i= 338
+code= R
+val= 90
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 0
+waypoll3= 57
+notch= 240
+--------
+i= 339
+code= W
+val= 4
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 4
+waypoll3= 57
+notch= 240
+--------
+i= 340
+code= S
+val= 4
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 4
+waypoll3= 61
+notch= 240
+--------
+i= 341
+code= W
+val= 3
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 7
+waypoll3= 61
+notch= 240
+--------
+i= 342
+code= S
+val= 2
+--------
+x= 26031
+y= 17537
+waypoll0= -11
+waypoll1= 0
+waypoll2= 7
+waypoll3= 63
+notch= 240
+--------
+i= 343
+code= E
+val= 5
+--------
+x= 26031
+y= 17537
+waypoll0= -6
+waypoll1= 0
+waypoll2= 7
+waypoll3= 63
+notch= 240
+--------
+i= 344
+code= N
+val= 5
+--------
+x= 26031
+y= 17537
+waypoll0= -6
+waypoll1= 5
+waypoll2= 7
+waypoll3= 63
+notch= 240
+--------
+i= 345
+code= R
+val= 270
+--------
+x= 26031
+y= 17537
+waypoll0= -6
+waypoll1= 5
+waypoll2= 7
+waypoll3= 63
+notch= 243
+--------
+i= 346
+code= F
+val= 43
+--------
+x= 28525
+y= 16978
+waypoll0= -13
+waypoll1= 0
+waypoll2= 0
+waypoll3= 58
+notch= 243
+--------
+i= 347
+code= W
+val= 1
+--------
+x= 28525
+y= 16978
+waypoll0= -13
+waypoll1= 1
+waypoll2= 0
+waypoll3= 58
+notch= 243
+--------
+i= 348
+code= F
+val= 77
+--------
+x= 32914
+y= 15977
+waypoll0= -13
+waypoll1= 0
+waypoll2= 0
+waypoll3= 57
+notch= 243
+--------
+i= 349
+code= E
+val= 4
+--------
+x= 32914
+y= 15977
+waypoll0= -13
+waypoll1= 0
+waypoll2= 0
+waypoll3= 61
+notch= 243
+--------
+i= 350
+code= F
+val= 85
+--------
+x= 38099
+y= 14872
+waypoll0= -13
+waypoll1= 0
+waypoll2= 0
+waypoll3= 61
+notch= 243
+--------
+i= 351
+code= W
+val= 2
+--------
+x= 38099
+y= 14872
+waypoll0= -13
+waypoll1= 2
+waypoll2= 0
+waypoll3= 61
+notch= 243
+--------
+i= 352
+code= R
+val= 90
+--------
+x= 38099
+y= 14872
+waypoll0= -13
+waypoll1= 2
+waypoll2= 0
+waypoll3= 61
+notch= 244
+--------
+i= 353
+code= N
+val= 1
+--------
+x= 38099
+y= 14872
+waypoll0= -13
+waypoll1= 3
+waypoll2= 0
+waypoll3= 61
+notch= 244
+--------
+i= 354
+code= E
+val= 1
+--------
+x= 38099
+y= 14872
+waypoll0= -12
+waypoll1= 3
+waypoll2= 0
+waypoll3= 61
+notch= 244
+--------
+i= 355
+code= F
+val= 39
+--------
+x= 37631
+y= 12610
+waypoll0= -12
+waypoll1= -58
+waypoll2= 0
+waypoll3= 0
+notch= 244
+--------
+i= 356
+code= R
+val= 90
+--------
+x= 37631
+y= 12610
+waypoll0= -12
+waypoll1= -58
+waypoll2= 0
+waypoll3= 0
+notch= 245
+--------
+i= 357
+code= W
+val= 2
+--------
+x= 37631
+y= 12610
+waypoll0= -12
+waypoll1= -58
+waypoll2= 0
+waypoll3= 2
+notch= 245
+--------
+i= 358
+code= N
+val= 4
+--------
+x= 37631
+y= 12610
+waypoll0= -12
+waypoll1= -58
+waypoll2= 4
+waypoll3= 2
+notch= 245
+--------
+i= 359
+code= E
+val= 2
+--------
+x= 37631
+y= 12610
+waypoll0= -12
+waypoll1= -56
+waypoll2= 4
+waypoll3= 2
+notch= 245
+--------
+i= 360
+code= W
+val= 4
+--------
+x= 37631
+y= 12610
+waypoll0= -12
+waypoll1= -56
+waypoll2= 4
+waypoll3= 6
+notch= 245
+--------
+i= 361
+code= F
+val= 81
+--------
+x= 32609
+y= 13906
+waypoll0= 0
+waypoll1= -62
+waypoll2= 16
+waypoll3= 0
+notch= 245
+--------
+i= 362
+code= W
+val= 4
+--------
+x= 32609
+y= 13906
+waypoll0= 0
+waypoll1= -62
+waypoll2= 16
+waypoll3= 4
+notch= 245
+--------
+i= 363
+code= F
+val= 3
+--------
+x= 32411
+y= 13954
+waypoll0= 0
+waypoll1= -66
+waypoll2= 16
+waypoll3= 0
+notch= 245
+--------
+i= 364
+code= W
+val= 4
+--------
+x= 32411
+y= 13954
+waypoll0= 0
+waypoll1= -66
+waypoll2= 16
+waypoll3= 4
+notch= 245
+--------
+i= 365
+code= R
+val= 180
+--------
+x= 32411
+y= 13954
+waypoll0= 0
+waypoll1= -66
+waypoll2= 16
+waypoll3= 4
+notch= 247
+--------
+i= 366
+code= W
+val= 2
+--------
+x= 32411
+y= 13954
+waypoll0= 0
+waypoll1= -64
+waypoll2= 16
+waypoll3= 4
+notch= 247
+--------
+i= 367
+code= N
+val= 5
+--------
+x= 32411
+y= 13954
+waypoll0= 5
+waypoll1= -64
+waypoll2= 16
+waypoll3= 4
+notch= 247
+--------
+i= 368
+code= R
+val= 90
+--------
+x= 32411
+y= 13954
+waypoll0= 5
+waypoll1= -64
+waypoll2= 16
+waypoll3= 4
+notch= 248
+--------
+i= 369
+code= N
+val= 5
+--------
+x= 32411
+y= 13954
+waypoll0= 5
+waypoll1= -59
+waypoll2= 16
+waypoll3= 4
+notch= 248
+--------
+i= 370
+code= E
+val= 2
+--------
+x= 32411
+y= 13954
+waypoll0= 7
+waypoll1= -59
+waypoll2= 16
+waypoll3= 4
+notch= 248
+--------
+i= 371
+code= S
+val= 5
+--------
+x= 32411
+y= 13954
+waypoll0= 7
+waypoll1= -59
+waypoll2= 16
+waypoll3= 9
+notch= 248
+--------
+i= 372
+code= S
+val= 3
+--------
+x= 32411
+y= 13954
+waypoll0= 7
+waypoll1= -59
+waypoll2= 16
+waypoll3= 12
+notch= 248
+--------
+i= 373
+code= E
+val= 1
+--------
+x= 32411
+y= 13954
+waypoll0= 8
+waypoll1= -59
+waypoll2= 16
+waypoll3= 12
+notch= 248
+--------
+i= 374
+code= N
+val= 4
+--------
+x= 32411
+y= 13954
+waypoll0= 8
+waypoll1= -55
+waypoll2= 16
+waypoll3= 12
+notch= 248
+--------
+i= 375
+code= W
+val= 1
+--------
+x= 32411
+y= 13954
+waypoll0= 8
+waypoll1= -55
+waypoll2= 17
+waypoll3= 12
+notch= 248
+--------
+i= 376
+code= S
+val= 3
+--------
+x= 32411
+y= 13954
+waypoll0= 8
+waypoll1= -55
+waypoll2= 17
+waypoll3= 15
+notch= 248
+--------
+i= 377
+code= F
+val= 48
+--------
+x= 31979
+y= 10594
+waypoll0= -9
+waypoll1= -70
+waypoll2= 0
+waypoll3= 0
+notch= 248
+--------
+i= 378
+code= S
+val= 2
+--------
+x= 31979
+y= 10594
+waypoll0= -9
+waypoll1= -70
+waypoll2= 0
+waypoll3= 2
+notch= 248
+--------
+i= 379
+code= F
+val= 23
+--------
+x= 31772
+y= 8938
+waypoll0= -9
+waypoll1= -72
+waypoll2= 0
+waypoll3= 0
+notch= 248
+--------
+i= 380
+code= E
+val= 2
+--------
+x= 31772
+y= 8938
+waypoll0= -7
+waypoll1= -72
+waypoll2= 0
+waypoll3= 0
+notch= 248
+--------
+i= 381
+code= R
+val= 180
+--------
+x= 31772
+y= 8938
+waypoll0= -7
+waypoll1= -72
+waypoll2= 0
+waypoll3= 0
+notch= 250
+--------
+i= 382
+code= F
+val= 89
+--------
+x= 32395
+y= 15346
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 72
+notch= 250
+--------
+i= 383
+code= L
+val= 180
+--------
+x= 32395
+y= 15346
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 72
+notch= 256
+--------
+i= 384
+code= N
+val= 3
+--------
+x= 32395
+y= 15346
+waypoll0= 0
+waypoll1= 3
+waypoll2= 7
+waypoll3= 72
+notch= 256
+--------
+i= 385
+code= E
+val= 1
+--------
+x= 32395
+y= 15346
+waypoll0= 1
+waypoll1= 3
+waypoll2= 7
+waypoll3= 72
+notch= 256
+--------
+i= 386
+code= N
+val= 5
+--------
+x= 32395
+y= 15346
+waypoll0= 1
+waypoll1= 8
+waypoll2= 7
+waypoll3= 72
+notch= 256
+--------
+i= 387
+code= W
+val= 2
+--------
+x= 32395
+y= 15346
+waypoll0= 1
+waypoll1= 8
+waypoll2= 9
+waypoll3= 72
+notch= 256
+--------
+i= 388
+code= L
+val= 90
+--------
+x= 32395
+y= 15346
+waypoll0= 1
+waypoll1= 8
+waypoll2= 9
+waypoll3= 72
+notch= 259
+--------
+i= 389
+code= E
+val= 1
+--------
+x= 32395
+y= 15346
+waypoll0= 1
+waypoll1= 8
+waypoll2= 9
+waypoll3= 73
+notch= 259
+--------
+i= 390
+code= F
+val= 80
+--------
+x= 37595
+y= 14706
+waypoll0= -8
+waypoll1= 0
+waypoll2= 0
+waypoll3= 65
+notch= 259
+--------
+i= 391
+code= R
+val= 90
+--------
+x= 37595
+y= 14706
+waypoll0= -8
+waypoll1= 0
+waypoll2= 0
+waypoll3= 65
+notch= 260
+--------
+i= 392
+code= S
+val= 1
+--------
+x= 37595
+y= 14706
+waypoll0= -8
+waypoll1= 0
+waypoll2= 0
+waypoll3= 66
+notch= 260
+--------
+i= 393
+code= E
+val= 3
+--------
+x= 37595
+y= 14706
+waypoll0= -5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 66
+notch= 260
+--------
+i= 394
+code= N
+val= 5
+--------
+x= 37595
+y= 14706
+waypoll0= -5
+waypoll1= 5
+waypoll2= 0
+waypoll3= 66
+notch= 260
+--------
+i= 395
+code= L
+val= 90
+--------
+x= 37595
+y= 14706
+waypoll0= -5
+waypoll1= 5
+waypoll2= 0
+waypoll3= 66
+notch= 263
+--------
+i= 396
+code= F
+val= 11
+--------
+x= 38266
+y= 14651
+waypoll0= -5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 61
+notch= 263
+--------
+i= 397
+code= W
+val= 5
+--------
+x= 38266
+y= 14651
+waypoll0= -5
+waypoll1= 5
+waypoll2= 0
+waypoll3= 61
+notch= 263
+--------
+i= 398
+code= F
+val= 70
+--------
+x= 42186
+y= 14301
+waypoll0= -5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 56
+notch= 263
+--------
+i= 399
+code= N
+val= 3
+--------
+x= 42186
+y= 14301
+waypoll0= -2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 56
+notch= 263
+--------
+i= 400
+code= W
+val= 1
+--------
+x= 42186
+y= 14301
+waypoll0= -2
+waypoll1= 1
+waypoll2= 0
+waypoll3= 56
+notch= 263
+--------
+i= 401
+code= L
+val= 90
+--------
+x= 42186
+y= 14301
+waypoll0= -2
+waypoll1= 1
+waypoll2= 0
+waypoll3= 56
+notch= 266
+--------
+i= 402
+code= N
+val= 5
+--------
+x= 42186
+y= 14301
+waypoll0= -2
+waypoll1= 1
+waypoll2= 0
+waypoll3= 61
+notch= 266
+--------
+i= 403
+code= F
+val= 99
+--------
+x= 42384
+y= 20241
+waypoll0= 0
+waypoll1= 0
+waypoll2= 2
+waypoll3= 60
+notch= 266
+--------
+i= 404
+code= N
+val= 5
+--------
+x= 42384
+y= 20241
+waypoll0= 0
+waypoll1= 0
+waypoll2= 2
+waypoll3= 65
+notch= 266
+--------
+i= 405
+code= F
+val= 24
+--------
+x= 42432
+y= 21801
+waypoll0= 0
+waypoll1= 0
+waypoll2= 2
+waypoll3= 65
+notch= 266
+--------
+i= 406
+code= R
+val= 180
+--------
+x= 42432
+y= 21801
+waypoll0= 0
+waypoll1= 0
+waypoll2= 2
+waypoll3= 65
+notch= 268
+--------
+i= 407
+code= E
+val= 4
+--------
+x= 42432
+y= 21801
+waypoll0= 4
+waypoll1= 0
+waypoll2= 2
+waypoll3= 65
+notch= 268
+--------
+i= 408
+code= F
+val= 57
+--------
+x= 42546
+y= 18096
+waypoll0= 2
+waypoll1= -65
+waypoll2= 0
+waypoll3= 0
+notch= 268
+--------
+i= 409
+code= S
+val= 1
+--------
+x= 42546
+y= 18096
+waypoll0= 2
+waypoll1= -65
+waypoll2= 0
+waypoll3= 1
+notch= 268
+--------
+i= 410
+code= F
+val= 9
+--------
+x= 42564
+y= 17502
+waypoll0= 2
+waypoll1= -66
+waypoll2= 0
+waypoll3= 0
+notch= 268
+--------
+i= 411
+code= S
+val= 5
+--------
+x= 42564
+y= 17502
+waypoll0= 2
+waypoll1= -66
+waypoll2= 0
+waypoll3= 5
+notch= 268
+--------
+i= 412
+code= R
+val= 90
+--------
+x= 42564
+y= 17502
+waypoll0= 2
+waypoll1= -66
+waypoll2= 0
+waypoll3= 5
+notch= 269
+--------
+i= 413
+code= W
+val= 4
+--------
+x= 42564
+y= 17502
+waypoll0= 2
+waypoll1= -66
+waypoll2= 0
+waypoll3= 9
+notch= 269
+--------
+i= 414
+code= F
+val= 16
+--------
+x= 41364
+y= 17470
+waypoll0= 0
+waypoll1= -75
+waypoll2= -2
+waypoll3= 0
+notch= 269
+--------
+i= 415
+code= E
+val= 1
+--------
+x= 41364
+y= 17470
+waypoll0= 0
+waypoll1= -74
+waypoll2= -2
+waypoll3= 0
+notch= 269
+--------
+i= 416
+code= F
+val= 18
+--------
+x= 40032
+y= 17434
+waypoll0= 0
+waypoll1= -74
+waypoll2= -2
+waypoll3= 0
+notch= 269
+--------
+i= 417
+code= F
+val= 17
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -74
+waypoll2= -2
+waypoll3= 0
+notch= 269
+--------
+i= 418
+code= L
+val= 180
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -74
+waypoll2= -2
+waypoll3= 0
+notch= 275
+--------
+i= 419
+code= S
+val= 1
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -74
+waypoll2= -1
+waypoll3= 0
+notch= 275
+--------
+i= 420
+code= L
+val= 90
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -74
+waypoll2= -1
+waypoll3= 0
+notch= 278
+--------
+i= 421
+code= S
+val= 1
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -73
+waypoll2= -1
+waypoll3= 0
+notch= 278
+--------
+i= 422
+code= E
+val= 2
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -73
+waypoll2= 1
+waypoll3= 0
+notch= 278
+--------
+i= 423
+code= N
+val= 1
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -73
+waypoll2= 1
+waypoll3= 1
+notch= 278
+--------
+i= 424
+code= E
+val= 4
+--------
+x= 38774
+y= 17400
+waypoll0= 0
+waypoll1= -73
+waypoll2= 5
+waypoll3= 1
+notch= 278
+--------
+i= 425
+code= F
+val= 84
+--------
+x= 39194
+y= 23616
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 74
+notch= 278
+--------
+i= 426
+code= N
+val= 1
+--------
+x= 39194
+y= 23616
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 75
+notch= 278
+--------
+i= 427
+code= F
+val= 6
+--------
+x= 39224
+y= 24066
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 75
+notch= 278
+--------
+i= 428
+code= E
+val= 1
+--------
+x= 39224
+y= 24066
+waypoll0= 0
+waypoll1= 0
+waypoll2= 6
+waypoll3= 75
+notch= 278
+--------
+i= 429
+code= L
+val= 180
+--------
+x= 39224
+y= 24066
+waypoll0= 0
+waypoll1= 0
+waypoll2= 6
+waypoll3= 75
+notch= 284
+--------
+i= 430
+code= W
+val= 3
+--------
+x= 39224
+y= 24066
+waypoll0= 0
+waypoll1= 0
+waypoll2= 9
+waypoll3= 75
+notch= 284
+--------
+i= 431
+code= L
+val= 180
+--------
+x= 39224
+y= 24066
+waypoll0= 0
+waypoll1= 0
+waypoll2= 9
+waypoll3= 75
+notch= 290
+--------
+i= 432
+code= N
+val= 3
+--------
+x= 39224
+y= 24066
+waypoll0= 0
+waypoll1= 0
+waypoll2= 9
+waypoll3= 78
+notch= 290
+--------
+i= 433
+code= F
+val= 60
+--------
+x= 39764
+y= 28746
+waypoll0= 0
+waypoll1= 0
+waypoll2= 9
+waypoll3= 78
+notch= 290
+--------
+i= 434
+code= F
+val= 43
+--------
+x= 40151
+y= 32100
+waypoll0= 0
+waypoll1= 0
+waypoll2= 9
+waypoll3= 78
+notch= 290
+--------
+i= 435
+code= S
+val= 3
+--------
+x= 40151
+y= 32100
+waypoll0= 0
+waypoll1= 3
+waypoll2= 9
+waypoll3= 78
+notch= 290
+--------
+i= 436
+code= F
+val= 48
+--------
+x= 40583
+y= 35700
+waypoll0= 0
+waypoll1= 0
+waypoll2= 9
+waypoll3= 75
+notch= 290
+--------
+i= 437
+code= W
+val= 2
+--------
+x= 40583
+y= 35700
+waypoll0= 2
+waypoll1= 0
+waypoll2= 9
+waypoll3= 75
+notch= 290
+--------
+i= 438
+code= S
+val= 1
+--------
+x= 40583
+y= 35700
+waypoll0= 2
+waypoll1= 1
+waypoll2= 9
+waypoll3= 75
+notch= 290
+--------
+i= 439
+code= R
+val= 180
+--------
+x= 40583
+y= 35700
+waypoll0= 2
+waypoll1= 1
+waypoll2= 9
+waypoll3= 75
+notch= 292
+--------
+i= 440
+code= N
+val= 1
+--------
+x= 40583
+y= 35700
+waypoll0= 2
+waypoll1= 2
+waypoll2= 9
+waypoll3= 75
+notch= 292
+--------
+i= 441
+code= S
+val= 2
+--------
+x= 40583
+y= 35700
+waypoll0= 2
+waypoll1= 2
+waypoll2= 9
+waypoll3= 77
+notch= 292
+--------
+i= 442
+code= F
+val= 78
+--------
+x= 40037
+y= 29850
+waypoll0= -7
+waypoll1= -75
+waypoll2= 0
+waypoll3= 0
+notch= 292
+--------
+i= 443
+code= L
+val= 180
+--------
+x= 40037
+y= 29850
+waypoll0= -7
+waypoll1= -75
+waypoll2= 0
+waypoll3= 0
+notch= 298
+--------
+i= 444
+code= W
+val= 4
+--------
+x= 40037
+y= 29850
+waypoll0= -3
+waypoll1= -75
+waypoll2= 0
+waypoll3= 0
+notch= 298
+--------
+i= 445
+code= F
+val= 51
+--------
+x= 40190
+y= 33675
+waypoll0= 0
+waypoll1= 0
+waypoll2= 3
+waypoll3= 75
+notch= 298
+--------
+i= 446
+code= W
+val= 5
+--------
+x= 40190
+y= 33675
+waypoll0= 5
+waypoll1= 0
+waypoll2= 3
+waypoll3= 75
+notch= 298
+--------
+i= 447
+code= N
+val= 2
+--------
+x= 40190
+y= 33675
+waypoll0= 5
+waypoll1= 0
+waypoll2= 3
+waypoll3= 77
+notch= 298
+--------
+i= 448
+code= E
+val= 2
+--------
+x= 40190
+y= 33675
+waypoll0= 5
+waypoll1= 0
+waypoll2= 5
+waypoll3= 77
+notch= 298
+--------
+i= 449
+code= N
+val= 1
+--------
+x= 40190
+y= 33675
+waypoll0= 5
+waypoll1= 0
+waypoll2= 5
+waypoll3= 78
+notch= 298
+--------
+i= 450
+code= W
+val= 4
+--------
+x= 40190
+y= 33675
+waypoll0= 9
+waypoll1= 0
+waypoll2= 5
+waypoll3= 78
+notch= 298
+--------
+i= 451
+code= F
+val= 65
+--------
+x= 39930
+y= 38745
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 78
+notch= 298
+--------
+i= 452
+code= N
+val= 3
+--------
+x= 39930
+y= 38745
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 81
+notch= 298
+--------
+i= 453
+code= L
+val= 90
+--------
+x= 39930
+y= 38745
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 81
+notch= 301
+--------
+i= 454
+code= W
+val= 3
+--------
+x= 39930
+y= 38745
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 84
+notch= 301
+--------
+i= 455
+code= N
+val= 2
+--------
+x= 39930
+y= 38745
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 84
+notch= 301
+--------
+i= 456
+code= W
+val= 2
+--------
+x= 39930
+y= 38745
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 86
+notch= 301
+--------
+i= 457
+code= F
+val= 46
+--------
+x= 35974
+y= 38653
+waypoll0= 0
+waypoll1= -86
+waypoll2= -2
+waypoll3= 0
+notch= 301
+--------
+i= 458
+code= N
+val= 4
+--------
+x= 35974
+y= 38653
+waypoll0= 0
+waypoll1= -86
+waypoll2= 2
+waypoll3= 0
+notch= 301
+--------
+i= 459
+code= W
+val= 4
+--------
+x= 35974
+y= 38653
+waypoll0= 0
+waypoll1= -86
+waypoll2= 2
+waypoll3= 4
+notch= 301
+--------
+i= 460
+code= N
+val= 2
+--------
+x= 35974
+y= 38653
+waypoll0= 0
+waypoll1= -86
+waypoll2= 4
+waypoll3= 4
+notch= 301
+--------
+i= 461
+code= W
+val= 2
+--------
+x= 35974
+y= 38653
+waypoll0= 0
+waypoll1= -86
+waypoll2= 4
+waypoll3= 6
+notch= 301
+--------
+i= 462
+code= F
+val= 74
+--------
+x= 29166
+y= 38949
+waypoll0= 0
+waypoll1= -92
+waypoll2= 4
+waypoll3= 0
+notch= 301
+--------
+i= 463
+code= R
+val= 180
+--------
+x= 29166
+y= 38949
+waypoll0= 0
+waypoll1= -92
+waypoll2= 4
+waypoll3= 0
+notch= 303
+--------
+i= 464
+code= E
+val= 4
+--------
+x= 29166
+y= 38949
+waypoll0= 0
+waypoll1= -92
+waypoll2= 4
+waypoll3= 4
+notch= 303
+--------
+i= 465
+code= R
+val= 90
+--------
+x= 29166
+y= 38949
+waypoll0= 0
+waypoll1= -92
+waypoll2= 4
+waypoll3= 4
+notch= 304
+--------
+i= 466
+code= N
+val= 1
+--------
+x= 29166
+y= 38949
+waypoll0= 0
+waypoll1= -91
+waypoll2= 4
+waypoll3= 4
+notch= 304
+--------
+i= 467
+code= F
+val= 33
+--------
+x= 29034
+y= 35814
+waypoll0= -4
+waypoll1= -95
+waypoll2= 0
+waypoll3= 0
+notch= 304
+--------
+i= 468
+code= S
+val= 4
+--------
+x= 29034
+y= 35814
+waypoll0= -4
+waypoll1= -95
+waypoll2= 0
+waypoll3= 4
+notch= 304
+--------
+i= 469
+code= L
+val= 180
+--------
+x= 29034
+y= 35814
+waypoll0= -4
+waypoll1= -95
+waypoll2= 0
+waypoll3= 4
+notch= 310
+--------
+i= 470
+code= S
+val= 1
+--------
+x= 29034
+y= 35814
+waypoll0= -4
+waypoll1= -94
+waypoll2= 0
+waypoll3= 4
+notch= 310
+--------
+i= 471
+code= F
+val= 15
+--------
+x= 29094
+y= 37284
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 98
+notch= 310
+--------
+i= 472
+code= R
+val= 180
+--------
+x= 29094
+y= 37284
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 98
+notch= 312
+--------
+i= 473
+code= S
+val= 5
+--------
+x= 29094
+y= 37284
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 103
+notch= 312
+--------
+i= 474
+code= L
+val= 180
+--------
+x= 29094
+y= 37284
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 103
+notch= 318
+--------
+i= 475
+code= F
+val= 21
+--------
+x= 29178
+y= 39447
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 103
+notch= 318
+--------
+i= 476
+code= N
+val= 4
+--------
+x= 29178
+y= 39447
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 107
+notch= 318
+--------
+i= 477
+code= F
+val= 87
+--------
+x= 29526
+y= 48756
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 107
+notch= 318
+--------
+i= 478
+code= W
+val= 4
+--------
+x= 29526
+y= 48756
+waypoll0= 4
+waypoll1= 0
+waypoll2= 4
+waypoll3= 107
+notch= 318
+--------
+i= 479
+code= L
+val= 90
+--------
+x= 29526
+y= 48756
+waypoll0= 4
+waypoll1= 0
+waypoll2= 4
+waypoll3= 107
+notch= 321
+--------
+i= 480
+code= S
+val= 4
+--------
+x= 29526
+y= 48756
+waypoll0= 8
+waypoll1= 0
+waypoll2= 4
+waypoll3= 107
+notch= 321
+--------
+i= 481
+code= F
+val= 40
+--------
+x= 25246
+y= 48596
+waypoll0= 0
+waypoll1= -107
+waypoll2= -4
+waypoll3= 0
+notch= 321
+--------
+i= 482
+code= S
+val= 5
+--------
+x= 25246
+y= 48596
+waypoll0= 5
+waypoll1= -107
+waypoll2= -4
+waypoll3= 0
+notch= 321
+--------
+i= 483
+code= W
+val= 3
+--------
+x= 25246
+y= 48596
+waypoll0= 5
+waypoll1= -107
+waypoll2= -4
+waypoll3= 3
+notch= 321
+--------
+i= 484
+code= L
+val= 180
+--------
+x= 25246
+y= 48596
+waypoll0= 5
+waypoll1= -107
+waypoll2= -4
+waypoll3= 3
+notch= 327
+--------
+i= 485
+code= F
+val= 78
+--------
+x= 33826
+y= 49298
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 110
+notch= 327
+--------
+i= 486
+code= W
+val= 2
+--------
+x= 33826
+y= 49298
+waypoll0= 9
+waypoll1= 2
+waypoll2= 0
+waypoll3= 110
+notch= 327
+--------
+i= 487
+code= F
+val= 40
+--------
+x= 38146
+y= 49658
+waypoll0= 9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 108
+notch= 327
+--------
+i= 488
+code= N
+val= 3
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 0
+waypoll2= 0
+waypoll3= 108
+notch= 327
+--------
+i= 489
+code= E
+val= 3
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 0
+waypoll2= 0
+waypoll3= 111
+notch= 327
+--------
+i= 490
+code= S
+val= 4
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 0
+waypoll2= 4
+waypoll3= 111
+notch= 327
+--------
+i= 491
+code= W
+val= 1
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 1
+waypoll2= 4
+waypoll3= 111
+notch= 327
+--------
+i= 492
+code= S
+val= 4
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 1
+waypoll2= 8
+waypoll3= 111
+notch= 327
+--------
+i= 493
+code= E
+val= 1
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 1
+waypoll2= 8
+waypoll3= 112
+notch= 327
+--------
+i= 494
+code= S
+val= 4
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 1
+waypoll2= 12
+waypoll3= 112
+notch= 327
+--------
+i= 495
+code= W
+val= 5
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 6
+waypoll2= 12
+waypoll3= 112
+notch= 327
+--------
+i= 496
+code= S
+val= 2
+--------
+x= 38146
+y= 49658
+waypoll0= 12
+waypoll1= 6
+waypoll2= 14
+waypoll3= 112
+notch= 327
+--------
+i= 497
+code= F
+val= 82
+--------
+x= 46838
+y= 49494
+waypoll0= -2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 106
+notch= 327
+--------
+i= 498
+code= E
+val= 5
+--------
+x= 46838
+y= 49494
+waypoll0= -2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 111
+notch= 327
+--------
+i= 499
+code= R
+val= 180
+--------
+x= 46838
+y= 49494
+waypoll0= -2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 111
+notch= 329
+--------
+i= 500
+code= F
+val= 7
+--------
+x= 46061
+y= 49508
+waypoll0= 0
+waypoll1= -111
+waypoll2= 2
+waypoll3= 0
+notch= 329
+--------
+i= 501
+code= W
+val= 3
+--------
+x= 46061
+y= 49508
+waypoll0= 0
+waypoll1= -111
+waypoll2= 2
+waypoll3= 3
+notch= 329
+--------
+i= 502
+code= R
+val= 90
+--------
+x= 46061
+y= 49508
+waypoll0= 0
+waypoll1= -111
+waypoll2= 2
+waypoll3= 3
+notch= 330
+--------
+i= 503
+code= N
+val= 2
+--------
+x= 46061
+y= 49508
+waypoll0= 0
+waypoll1= -111
+waypoll2= 2
+waypoll3= 5
+notch= 330
+--------
+i= 504
+code= R
+val= 90
+--------
+x= 46061
+y= 49508
+waypoll0= 0
+waypoll1= -111
+waypoll2= 2
+waypoll3= 5
+notch= 331
+--------
+i= 505
+code= W
+val= 5
+--------
+x= 46061
+y= 49508
+waypoll0= 0
+waypoll1= -106
+waypoll2= 2
+waypoll3= 5
+notch= 331
+--------
+i= 506
+code= N
+val= 5
+--------
+x= 46061
+y= 49508
+waypoll0= 5
+waypoll1= -106
+waypoll2= 2
+waypoll3= 5
+notch= 331
+--------
+i= 507
+code= W
+val= 5
+--------
+x= 46061
+y= 49508
+waypoll0= 5
+waypoll1= -101
+waypoll2= 2
+waypoll3= 5
+notch= 331
+--------
+i= 508
+code= S
+val= 3
+--------
+x= 46061
+y= 49508
+waypoll0= 5
+waypoll1= -101
+waypoll2= 5
+waypoll3= 5
+notch= 331
+--------
+i= 509
+code= E
+val= 2
+--------
+x= 46061
+y= 49508
+waypoll0= 5
+waypoll1= -101
+waypoll2= 5
+waypoll3= 7
+notch= 331
+--------
+i= 510
+code= L
+val= 90
+--------
+x= 46061
+y= 49508
+waypoll0= 5
+waypoll1= -101
+waypoll2= 5
+waypoll3= 7
+notch= 334
+--------
+i= 511
+code= E
+val= 1
+--------
+x= 46061
+y= 49508
+waypoll0= 5
+waypoll1= -101
+waypoll2= 6
+waypoll3= 7
+notch= 334
+--------
+i= 512
+code= F
+val= 77
+--------
+x= 46138
+y= 57824
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 108
+notch= 334
+--------
+i= 513
+code= E
+val= 4
+--------
+x= 46138
+y= 57824
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 108
+notch= 334
+--------
+i= 514
+code= F
+val= 70
+--------
+x= 46488
+y= 65384
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 108
+notch= 334
+--------
+i= 515
+code= W
+val= 5
+--------
+x= 46488
+y= 65384
+waypoll0= 5
+waypoll1= 0
+waypoll2= 5
+waypoll3= 108
+notch= 334
+--------
+i= 516
+code= S
+val= 2
+--------
+x= 46488
+y= 65384
+waypoll0= 5
+waypoll1= 2
+waypoll2= 5
+waypoll3= 108
+notch= 334
+--------
+i= 517
+code= W
+val= 2
+--------
+x= 46488
+y= 65384
+waypoll0= 7
+waypoll1= 2
+waypoll2= 5
+waypoll3= 108
+notch= 334
+--------
+i= 518
+code= F
+val= 7
+--------
+x= 46474
+y= 66126
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 106
+notch= 334
+--------
+i= 519
+code= W
+val= 4
+--------
+x= 46474
+y= 66126
+waypoll0= 4
+waypoll1= 0
+waypoll2= -2
+waypoll3= 106
+notch= 334
+--------
+i= 520
+code= F
+val= 8
+--------
+x= 46426
+y= 66974
+waypoll0= 0
+waypoll1= 0
+waypoll2= -6
+waypoll3= 106
+notch= 334
+--------
+i= 521
+code= R
+val= 180
+--------
+x= 46426
+y= 66974
+waypoll0= 0
+waypoll1= 0
+waypoll2= -6
+waypoll3= 106
+notch= 336
+--------
+i= 522
+code= W
+val= 5
+--------
+x= 46426
+y= 66974
+waypoll0= 0
+waypoll1= 0
+waypoll2= -1
+waypoll3= 106
+notch= 336
+--------
+i= 523
+code= L
+val= 90
+--------
+x= 46426
+y= 66974
+waypoll0= 0
+waypoll1= 0
+waypoll2= -1
+waypoll3= 106
+notch= 339
+--------
+i= 524
+code= F
+val= 49
+--------
+x= 51620
+y= 67023
+waypoll0= 1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 106
+notch= 339
+--------
+i= 525
+code= W
+val= 2
+--------
+x= 51620
+y= 67023
+waypoll0= 1
+waypoll1= 2
+waypoll2= 0
+waypoll3= 106
+notch= 339
+--------
+i= 526
+code= L
+val= 90
+--------
+x= 51620
+y= 67023
+waypoll0= 1
+waypoll1= 2
+waypoll2= 0
+waypoll3= 106
+notch= 342
+--------
+i= 527
+code= S
+val= 5
+--------
+x= 51620
+y= 67023
+waypoll0= 1
+waypoll1= 7
+waypoll2= 0
+waypoll3= 106
+notch= 342
+--------
+i= 528
+code= W
+val= 1
+--------
+x= 51620
+y= 67023
+waypoll0= 2
+waypoll1= 7
+waypoll2= 0
+waypoll3= 106
+notch= 342
+--------
+i= 529
+code= S
+val= 3
+--------
+x= 51620
+y= 67023
+waypoll0= 2
+waypoll1= 10
+waypoll2= 0
+waypoll3= 106
+notch= 342
+--------
+i= 530
+code= F
+val= 74
+--------
+x= 51472
+y= 74127
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 96
+notch= 342
+--------
+i= 531
+code= W
+val= 3
+--------
+x= 51472
+y= 74127
+waypoll0= 3
+waypoll1= 0
+waypoll2= -2
+waypoll3= 96
+notch= 342
+--------
+i= 532
+code= F
+val= 76
+--------
+x= 51092
+y= 81423
+waypoll0= 0
+waypoll1= 0
+waypoll2= -5
+waypoll3= 96
+notch= 342
+--------
+i= 533
+code= W
+val= 3
+--------
+x= 51092
+y= 81423
+waypoll0= 3
+waypoll1= 0
+waypoll2= -5
+waypoll3= 96
+notch= 342
+--------
+i= 534
+code= N
+val= 1
+--------
+x= 51092
+y= 81423
+waypoll0= 3
+waypoll1= 0
+waypoll2= -5
+waypoll3= 97
+notch= 342
+--------
+i= 535
+code= E
+val= 4
+--------
+x= 51092
+y= 81423
+waypoll0= 3
+waypoll1= 0
+waypoll2= -1
+waypoll3= 97
+notch= 342
+--------
+i= 536
+code= S
+val= 2
+--------
+x= 51092
+y= 81423
+waypoll0= 3
+waypoll1= 2
+waypoll2= -1
+waypoll3= 97
+notch= 342
+--------
+i= 537
+code= F
+val= 65
+--------
+x= 50832
+y= 87598
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 95
+notch= 342
+--------
+i= 538
+code= E
+val= 1
+--------
+x= 50832
+y= 87598
+waypoll0= 0
+waypoll1= 0
+waypoll2= -3
+waypoll3= 95
+notch= 342
+--------
+i= 539
+code= W
+val= 1
+--------
+x= 50832
+y= 87598
+waypoll0= 1
+waypoll1= 0
+waypoll2= -3
+waypoll3= 95
+notch= 342
+--------
+i= 540
+code= F
+val= 85
+--------
+x= 50492
+y= 95673
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 95
+notch= 342
+--------
+i= 541
+code= E
+val= 5
+--------
+x= 50492
+y= 95673
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 95
+notch= 342
+--------
+i= 542
+code= F
+val= 67
+--------
+x= 50559
+y= 102038
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 95
+notch= 342
+--------
+i= 543
+code= R
+val= 90
+--------
+x= 50559
+y= 102038
+waypoll0= 0
+waypoll1= 0
+waypoll2= 1
+waypoll3= 95
+notch= 343
+--------
+i= 544
+code= W
+val= 1
+--------
+x= 50559
+y= 102038
+waypoll0= 0
+waypoll1= 1
+waypoll2= 1
+waypoll3= 95
+notch= 343
+--------
+i= 545
+code= F
+val= 8
+--------
+x= 51311
+y= 102030
+waypoll0= -1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 94
+notch= 343
+--------
+i= 546
+code= R
+val= 180
+--------
+x= 51311
+y= 102030
+waypoll0= -1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 94
+notch= 345
+--------
+i= 547
+code= N
+val= 2
+--------
+x= 51311
+y= 102030
+waypoll0= -1
+waypoll1= 0
+waypoll2= 2
+waypoll3= 94
+notch= 345
+--------
+i= 548
+code= F
+val= 94
+--------
+x= 42475
+y= 102312
+waypoll0= 0
+waypoll1= -94
+waypoll2= 3
+waypoll3= 0
+notch= 345
+--------
+i= 549
+code= W
+val= 4
+--------
+x= 42475
+y= 102312
+waypoll0= 0
+waypoll1= -94
+waypoll2= 3
+waypoll3= 4
+notch= 345
+--------
+i= 550
+code= R
+val= 90
+--------
+x= 42475
+y= 102312
+waypoll0= 0
+waypoll1= -94
+waypoll2= 3
+waypoll3= 4
+notch= 346
+--------
+i= 551
+code= S
+val= 4
+--------
+x= 42475
+y= 102312
+waypoll0= 0
+waypoll1= -90
+waypoll2= 3
+waypoll3= 4
+notch= 346
+--------
+i= 552
+code= F
+val= 81
+--------
+x= 42718
+y= 109926
+waypoll0= 0
+waypoll1= 0
+waypoll2= 3
+waypoll3= 94
+notch= 346
+--------
+i= 553
+code= N
+val= 5
+--------
+x= 42718
+y= 109926
+waypoll0= 0
+waypoll1= 0
+waypoll2= 3
+waypoll3= 99
+notch= 346
+--------
+i= 554
+code= R
+val= 90
+--------
+x= 42718
+y= 109926
+waypoll0= 0
+waypoll1= 0
+waypoll2= 3
+waypoll3= 99
+notch= 347
+--------
+i= 555
+code= E
+val= 4
+--------
+x= 42718
+y= 109926
+waypoll0= 0
+waypoll1= 0
+waypoll2= 3
+waypoll3= 103
+notch= 347
+--------
+i= 556
+code= F
+val= 9
+--------
+x= 43645
+y= 109899
+waypoll0= -3
+waypoll1= 0
+waypoll2= 0
+waypoll3= 103
+notch= 347
+--------
+i= 557
+code= N
+val= 3
+--------
+x= 43645
+y= 109899
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 103
+notch= 347
+--------
+i= 558
+code= F
+val= 49
+--------
+x= 48692
+y= 109899
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 103
+notch= 347
+--------
+i= 559
+code= R
+val= 180
+--------
+x= 48692
+y= 109899
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 103
+notch= 349
+--------
+i= 560
+code= N
+val= 3
+--------
+x= 48692
+y= 109899
+waypoll0= 0
+waypoll1= 0
+waypoll2= 3
+waypoll3= 103
+notch= 349
+--------
+i= 561
+code= F
+val= 94
+--------
+x= 39010
+y= 110181
+waypoll0= 0
+waypoll1= -103
+waypoll2= 3
+waypoll3= 0
+notch= 349
+--------
+i= 562
+code= N
+val= 4
+--------
+x= 39010
+y= 110181
+waypoll0= 0
+waypoll1= -103
+waypoll2= 7
+waypoll3= 0
+notch= 349
+--------
+i= 563
+code= R
+val= 90
+--------
+x= 39010
+y= 110181
+waypoll0= 0
+waypoll1= -103
+waypoll2= 7
+waypoll3= 0
+notch= 350
+--------
+i= 564
+code= S
+val= 2
+--------
+x= 39010
+y= 110181
+waypoll0= 0
+waypoll1= -101
+waypoll2= 7
+waypoll3= 0
+notch= 350
+--------
+i= 565
+code= F
+val= 34
+--------
+x= 39248
+y= 113615
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 101
+notch= 350
+--------
+i= 566
+code= W
+val= 2
+--------
+x= 39248
+y= 113615
+waypoll0= 2
+waypoll1= 0
+waypoll2= 7
+waypoll3= 101
+notch= 350
+--------
+i= 567
+code= E
+val= 4
+--------
+x= 39248
+y= 113615
+waypoll0= 2
+waypoll1= 0
+waypoll2= 11
+waypoll3= 101
+notch= 350
+--------
+i= 568
+code= W
+val= 5
+--------
+x= 39248
+y= 113615
+waypoll0= 7
+waypoll1= 0
+waypoll2= 11
+waypoll3= 101
+notch= 350
+--------
+i= 569
+code= F
+val= 84
+--------
+x= 39584
+y= 122099
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 101
+notch= 350
+--------
+i= 570
+code= S
+val= 4
+--------
+x= 39584
+y= 122099
+waypoll0= 0
+waypoll1= 4
+waypoll2= 4
+waypoll3= 101
+notch= 350
+--------
+i= 571
+code= W
+val= 1
+--------
+x= 39584
+y= 122099
+waypoll0= 1
+waypoll1= 4
+waypoll2= 4
+waypoll3= 101
+notch= 350
+--------
+i= 572
+code= R
+val= 180
+--------
+x= 39584
+y= 122099
+waypoll0= 1
+waypoll1= 4
+waypoll2= 4
+waypoll3= 101
+notch= 352
+--------
+i= 573
+code= W
+val= 5
+--------
+x= 39584
+y= 122099
+waypoll0= 1
+waypoll1= 4
+waypoll2= 9
+waypoll3= 101
+notch= 352
+--------
+i= 574
+code= F
+val= 13
+--------
+x= 39480
+y= 120838
+waypoll0= -8
+waypoll1= -97
+waypoll2= 0
+waypoll3= 0
+notch= 352
+--------
+i= 575
+code= W
+val= 3
+--------
+x= 39480
+y= 120838
+waypoll0= -8
+waypoll1= -97
+waypoll2= 3
+waypoll3= 0
+notch= 352
+--------
+i= 576
+code= L
+val= 90
+--------
+x= 39480
+y= 120838
+waypoll0= -8
+waypoll1= -97
+waypoll2= 3
+waypoll3= 0
+notch= 355
+--------
+i= 577
+code= N
+val= 1
+--------
+x= 39480
+y= 120838
+waypoll0= -7
+waypoll1= -97
+waypoll2= 3
+waypoll3= 0
+notch= 355
+--------
+i= 578
+code= E
+val= 1
+--------
+x= 39480
+y= 120838
+waypoll0= -7
+waypoll1= -97
+waypoll2= 3
+waypoll3= 1
+notch= 355
+--------
+i= 579
+code= R
+val= 90
+--------
+x= 39480
+y= 120838
+waypoll0= -7
+waypoll1= -97
+waypoll2= 3
+waypoll3= 1
+notch= 356
+--------
+i= 580
+code= S
+val= 2
+--------
+x= 39480
+y= 120838
+waypoll0= -7
+waypoll1= -97
+waypoll2= 3
+waypoll3= 3
+notch= 356
+--------
+i= 581
+code= R
+val= 180
+--------
+x= 39480
+y= 120838
+waypoll0= -7
+waypoll1= -97
+waypoll2= 3
+waypoll3= 3
+notch= 358
+--------
+i= 582
+code= F
+val= 81
+--------
+x= 40290
+y= 128938
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 100
+notch= 358
+--------
+i= 583
+code= L
+val= 90
+--------
+x= 40290
+y= 128938
+waypoll0= 0
+waypoll1= 0
+waypoll2= 10
+waypoll3= 100
+notch= 361
+--------
+i= 584
+code= F
+val= 36
+--------
+x= 36690
+y= 129298
+waypoll0= 0
+waypoll1= -100
+waypoll2= 10
+waypoll3= 0
+notch= 361
+--------
+i= 585
+code= W
+val= 3
+--------
+x= 36690
+y= 129298
+waypoll0= 0
+waypoll1= -100
+waypoll2= 10
+waypoll3= 3
+notch= 361
+--------
+i= 586
+code= S
+val= 4
+--------
+x= 36690
+y= 129298
+waypoll0= 4
+waypoll1= -100
+waypoll2= 10
+waypoll3= 3
+notch= 361
+--------
+i= 587
+code= W
+val= 1
+--------
+x= 36690
+y= 129298
+waypoll0= 4
+waypoll1= -100
+waypoll2= 10
+waypoll3= 4
+notch= 361
+--------
+i= 588
+code= F
+val= 3
+--------
+x= 36378
+y= 129316
+waypoll0= 0
+waypoll1= -104
+waypoll2= 6
+waypoll3= 0
+notch= 361
+--------
+i= 589
+code= R
+val= 90
+--------
+x= 36378
+y= 129316
+waypoll0= 0
+waypoll1= -104
+waypoll2= 6
+waypoll3= 0
+notch= 362
+--------
+i= 590
+code= W
+val= 3
+--------
+x= 36378
+y= 129316
+waypoll0= 3
+waypoll1= -104
+waypoll2= 6
+waypoll3= 0
+notch= 362
+--------
+i= 591
+code= R
+val= 90
+--------
+x= 36378
+y= 129316
+waypoll0= 3
+waypoll1= -104
+waypoll2= 6
+waypoll3= 0
+notch= 363
+--------
+i= 592
+code= E
+val= 5
+--------
+x= 36378
+y= 129316
+waypoll0= 3
+waypoll1= -104
+waypoll2= 6
+waypoll3= 5
+notch= 363
+--------
+i= 593
+code= R
+val= 90
+--------
+x= 36378
+y= 129316
+waypoll0= 3
+waypoll1= -104
+waypoll2= 6
+waypoll3= 5
+notch= 364
+--------
+i= 594
+code= F
+val= 46
+--------
+x= 36240
+y= 124302
+waypoll0= -3
+waypoll1= -109
+waypoll2= 0
+waypoll3= 0
+notch= 364
+--------
+i= 595
+code= L
+val= 90
+--------
+x= 36240
+y= 124302
+waypoll0= -3
+waypoll1= -109
+waypoll2= 0
+waypoll3= 0
+notch= 367
+--------
+i= 596
+code= F
+val= 63
+--------
+x= 43107
+y= 124113
+waypoll0= -3
+waypoll1= 0
+waypoll2= 0
+waypoll3= 109
+notch= 367
+--------
+i= 597
+code= N
+val= 1
+--------
+x= 43107
+y= 124113
+waypoll0= -2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 109
+notch= 367
+--------
+i= 598
+code= L
+val= 90
+--------
+x= 43107
+y= 124113
+waypoll0= -2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 109
+notch= 370
+--------
+i= 599
+code= W
+val= 4
+--------
+x= 43107
+y= 124113
+waypoll0= 2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 109
+notch= 370
+--------
+i= 600
+code= N
+val= 1
+--------
+x= 43107
+y= 124113
+waypoll0= 2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 110
+notch= 370
+--------
+i= 601
+code= S
+val= 2
+--------
+x= 43107
+y= 124113
+waypoll0= 2
+waypoll1= 2
+waypoll2= 0
+waypoll3= 110
+notch= 370
+--------
+i= 602
+code= N
+val= 3
+--------
+x= 43107
+y= 124113
+waypoll0= 2
+waypoll1= 2
+waypoll2= 0
+waypoll3= 113
+notch= 370
+--------
+i= 603
+code= L
+val= 90
+--------
+x= 43107
+y= 124113
+waypoll0= 2
+waypoll1= 2
+waypoll2= 0
+waypoll3= 113
+notch= 373
+--------
+i= 604
+code= F
+val= 64
+--------
+x= 36003
+y= 123985
+waypoll0= 0
+waypoll1= -111
+waypoll2= -2
+waypoll3= 0
+notch= 373
+--------
+i= 605
+code= W
+val= 5
+--------
+x= 36003
+y= 123985
+waypoll0= 0
+waypoll1= -111
+waypoll2= -2
+waypoll3= 5
+notch= 373
+--------
+i= 606
+code= N
+val= 4
+--------
+x= 36003
+y= 123985
+waypoll0= 0
+waypoll1= -111
+waypoll2= 2
+waypoll3= 5
+notch= 373
+--------
+i= 607
+code= F
+val= 45
+--------
+x= 30783
+y= 124075
+waypoll0= 0
+waypoll1= -116
+waypoll2= 2
+waypoll3= 0
+notch= 373
+--------
+i= 608
+code= W
+val= 4
+--------
+x= 30783
+y= 124075
+waypoll0= 0
+waypoll1= -116
+waypoll2= 2
+waypoll3= 4
+notch= 373
+--------
+i= 609
+code= S
+val= 4
+--------
+x= 30783
+y= 124075
+waypoll0= 4
+waypoll1= -116
+waypoll2= 2
+waypoll3= 4
+notch= 373
+--------
+i= 610
+code= R
+val= 90
+--------
+x= 30783
+y= 124075
+waypoll0= 4
+waypoll1= -116
+waypoll2= 2
+waypoll3= 4
+notch= 374
+--------
+i= 611
+code= W
+val= 3
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -116
+waypoll2= 2
+waypoll3= 4
+notch= 374
+--------
+i= 612
+code= N
+val= 5
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -116
+waypoll2= 2
+waypoll3= 9
+notch= 374
+--------
+i= 613
+code= R
+val= 90
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -116
+waypoll2= 2
+waypoll3= 9
+notch= 375
+--------
+i= 614
+code= L
+val= 180
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -116
+waypoll2= 2
+waypoll3= 9
+notch= 381
+--------
+i= 615
+code= E
+val= 4
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -112
+waypoll2= 2
+waypoll3= 9
+notch= 381
+--------
+i= 616
+code= R
+val= 270
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -112
+waypoll2= 2
+waypoll3= 9
+notch= 384
+--------
+i= 617
+code= S
+val= 1
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -112
+waypoll2= 2
+waypoll3= 10
+notch= 384
+--------
+i= 618
+code= L
+val= 180
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -112
+waypoll2= 2
+waypoll3= 10
+notch= 390
+--------
+i= 619
+code= E
+val= 1
+--------
+x= 30783
+y= 124075
+waypoll0= 7
+waypoll1= -112
+waypoll2= 3
+waypoll3= 10
+notch= 390
+--------
+i= 620
+code= F
+val= 22
+--------
+x= 30695
+y= 126759
+waypoll0= 0
+waypoll1= 0
+waypoll2= -4
+waypoll3= 122
+notch= 390
+--------
+i= 621
+code= E
+val= 4
+--------
+x= 30695
+y= 126759
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 122
+notch= 390
+--------
+i= 622
+code= F
+val= 11
+--------
+x= 30695
+y= 128101
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 122
+notch= 390
+--------
+i= 623
+code= W
+val= 3
+--------
+x= 30695
+y= 128101
+waypoll0= 3
+waypoll1= 0
+waypoll2= 0
+waypoll3= 122
+notch= 390
+--------
+i= 624
+code= F
+val= 12
+--------
+x= 30659
+y= 129565
+waypoll0= 0
+waypoll1= 0
+waypoll2= -3
+waypoll3= 122
+notch= 390
+--------
+i= 625
+code= W
+val= 3
+--------
+x= 30659
+y= 129565
+waypoll0= 3
+waypoll1= 0
+waypoll2= -3
+waypoll3= 122
+notch= 390
+--------
+i= 626
+code= R
+val= 90
+--------
+x= 30659
+y= 129565
+waypoll0= 3
+waypoll1= 0
+waypoll2= -3
+waypoll3= 122
+notch= 391
+--------
+i= 627
+code= S
+val= 5
+--------
+x= 30659
+y= 129565
+waypoll0= 3
+waypoll1= 0
+waypoll2= 2
+waypoll3= 122
+notch= 391
+--------
+i= 628
+code= E
+val= 3
+--------
+x= 30659
+y= 129565
+waypoll0= 3
+waypoll1= 0
+waypoll2= 2
+waypoll3= 125
+notch= 391
+--------
+i= 629
+code= F
+val= 4
+--------
+x= 31159
+y= 129569
+waypoll0= 1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 125
+notch= 391
+--------
+i= 630
+code= R
+val= 90
+--------
+x= 31159
+y= 129569
+waypoll0= 1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 125
+notch= 392
+--------
+i= 631
+code= S
+val= 3
+--------
+x= 31159
+y= 129569
+waypoll0= 1
+waypoll1= 0
+waypoll2= 0
+waypoll3= 128
+notch= 392
+--------
+i= 632
+code= F
+val= 3
+--------
+x= 31162
+y= 129185
+waypoll0= 1
+waypoll1= -128
+waypoll2= 0
+waypoll3= 0
+notch= 392
+--------
+i= 633
+code= L
+val= 180
+--------
+x= 31162
+y= 129185
+waypoll0= 1
+waypoll1= -128
+waypoll2= 0
+waypoll3= 0
+notch= 398
+--------
+i= 634
+code= S
+val= 2
+--------
+x= 31162
+y= 129185
+waypoll0= 1
+waypoll1= -126
+waypoll2= 0
+waypoll3= 0
+notch= 398
+--------
+i= 635
+code= F
+val= 16
+--------
+x= 31146
+y= 131201
+waypoll0= 0
+waypoll1= 0
+waypoll2= -1
+waypoll3= 126
+notch= 398
+--------
+i= 636
+code= E
+val= 5
+--------
+x= 31146
+y= 131201
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 126
+notch= 398
+--------
+i= 637
+code= R
+val= 90
+--------
+x= 31146
+y= 131201
+waypoll0= 0
+waypoll1= 0
+waypoll2= 4
+waypoll3= 126
+notch= 399
+--------
+i= 638
+code= F
+val= 75
+--------
+x= 40596
+y= 130901
+waypoll0= -4
+waypoll1= 0
+waypoll2= 0
+waypoll3= 126
+notch= 399
+--------
+i= 639
+code= W
+val= 4
+--------
+x= 40596
+y= 130901
+waypoll0= -4
+waypoll1= 4
+waypoll2= 0
+waypoll3= 126
+notch= 399
+--------
+i= 640
+code= N
+val= 1
+--------
+x= 40596
+y= 130901
+waypoll0= -3
+waypoll1= 4
+waypoll2= 0
+waypoll3= 126
+notch= 399
+--------
+i= 641
+code= S
+val= 4
+--------
+x= 40596
+y= 130901
+waypoll0= -3
+waypoll1= 4
+waypoll2= 4
+waypoll3= 126
+notch= 399
+--------
+i= 642
+code= F
+val= 81
+--------
+x= 50478
+y= 130334
+waypoll0= -7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 122
+notch= 399
+--------
+i= 643
+code= L
+val= 90
+--------
+x= 50478
+y= 130334
+waypoll0= -7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 122
+notch= 402
+--------
+i= 644
+code= F
+val= 69
+--------
+x= 50961
+y= 138752
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 122
+notch= 402
+--------
+i= 645
+code= N
+val= 5
+--------
+x= 50961
+y= 138752
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 127
+notch= 402
+--------
+i= 646
+code= L
+val= 90
+--------
+x= 50961
+y= 138752
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 127
+notch= 405
+--------
+i= 647
+code= W
+val= 5
+--------
+x= 50961
+y= 138752
+waypoll0= 0
+waypoll1= 0
+waypoll2= 7
+waypoll3= 132
+notch= 405
+--------
+i= 648
+code= F
+val= 63
+--------
+x= 42645
+y= 139193
+waypoll0= 0
+waypoll1= -132
+waypoll2= 7
+waypoll3= 0
+notch= 405
+--------
+i= 649
+code= N
+val= 3
+--------
+x= 42645
+y= 139193
+waypoll0= 0
+waypoll1= -132
+waypoll2= 10
+waypoll3= 0
+notch= 405
+--------
+i= 650
+code= W
+val= 2
+--------
+x= 42645
+y= 139193
+waypoll0= 0
+waypoll1= -132
+waypoll2= 10
+waypoll3= 2
+notch= 405
+--------
+i= 651
+code= L
+val= 90
+--------
+x= 42645
+y= 139193
+waypoll0= 0
+waypoll1= -132
+waypoll2= 10
+waypoll3= 2
+notch= 408
+--------
+i= 652
+code= F
+val= 39
+--------
+x= 42255
+y= 133967
+waypoll0= -10
+waypoll1= -134
+waypoll2= 0
+waypoll3= 0
+notch= 408
+--------
+i= 653
+code= E
+val= 5
+--------
+x= 42255
+y= 133967
+waypoll0= -5
+waypoll1= -134
+waypoll2= 0
+waypoll3= 0
+notch= 408
+--------
+i= 654
+code= F
+val= 81
+--------
+x= 41850
+y= 123113
+waypoll0= -5
+waypoll1= -134
+waypoll2= 0
+waypoll3= 0
+notch= 408
+--------
+i= 655
+code= W
+val= 3
+--------
+x= 41850
+y= 123113
+waypoll0= -5
+waypoll1= -134
+waypoll2= 3
+waypoll3= 0
+notch= 408
+--------
+i= 656
+code= F
+val= 1
+--------
+x= 41842
+y= 122979
+waypoll0= -8
+waypoll1= -134
+waypoll2= 0
+waypoll3= 0
+notch= 408
+--------
+i= 657
+code= L
+val= 90
+--------
+x= 41842
+y= 122979
+waypoll0= -8
+waypoll1= -134
+waypoll2= 0
+waypoll3= 0
+notch= 411
+--------
+i= 658
+code= F
+val= 31
+--------
+x= 45996
+y= 122731
+waypoll0= -8
+waypoll1= 0
+waypoll2= 0
+waypoll3= 134
+notch= 411
+--------
+i= 659
+code= W
+val= 4
+--------
+x= 45996
+y= 122731
+waypoll0= -8
+waypoll1= 4
+waypoll2= 0
+waypoll3= 134
+notch= 411
+--------
+i= 660
+code= S
+val= 4
+--------
+x= 45996
+y= 122731
+waypoll0= -8
+waypoll1= 4
+waypoll2= 4
+waypoll3= 134
+notch= 411
+--------
+i= 661
+code= F
+val= 32
+--------
+x= 50156
+y= 122347
+waypoll0= -12
+waypoll1= 0
+waypoll2= 0
+waypoll3= 130
+notch= 411
+--------
+i= 662
+code= W
+val= 3
+--------
+x= 50156
+y= 122347
+waypoll0= -12
+waypoll1= 3
+waypoll2= 0
+waypoll3= 130
+notch= 411
+--------
+i= 663
+code= N
+val= 4
+--------
+x= 50156
+y= 122347
+waypoll0= -8
+waypoll1= 3
+waypoll2= 0
+waypoll3= 130
+notch= 411
+--------
+i= 664
+code= L
+val= 180
+--------
+x= 50156
+y= 122347
+waypoll0= -8
+waypoll1= 3
+waypoll2= 0
+waypoll3= 130
+notch= 417
+--------
+i= 665
+code= N
+val= 5
+--------
+x= 50156
+y= 122347
+waypoll0= -8
+waypoll1= 3
+waypoll2= 5
+waypoll3= 130
+notch= 417
+--------
+i= 666
+code= W
+val= 2
+--------
+x= 50156
+y= 122347
+waypoll0= -8
+waypoll1= 3
+waypoll2= 5
+waypoll3= 132
+notch= 417
+--------
+i= 667
+code= F
+val= 20
+--------
+x= 47576
+y= 122607
+waypoll0= 0
+waypoll1= -129
+waypoll2= 13
+waypoll3= 0
+notch= 417
+--------
+i= 668
+code= L
+val= 90
+--------
+x= 47576
+y= 122607
+waypoll0= 0
+waypoll1= -129
+waypoll2= 13
+waypoll3= 0
+notch= 420
+--------
+i= 669
+code= F
+val= 42
+--------
+x= 47030
+y= 117189
+waypoll0= -13
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 420
+--------
+i= 670
+code= S
+val= 3
+--------
+x= 47030
+y= 117189
+waypoll0= -13
+waypoll1= -129
+waypoll2= 0
+waypoll3= 3
+notch= 420
+--------
+i= 671
+code= E
+val= 5
+--------
+x= 47030
+y= 117189
+waypoll0= -8
+waypoll1= -129
+waypoll2= 0
+waypoll3= 3
+notch= 420
+--------
+i= 672
+code= S
+val= 4
+--------
+x= 47030
+y= 117189
+waypoll0= -8
+waypoll1= -129
+waypoll2= 0
+waypoll3= 7
+notch= 420
+--------
+i= 673
+code= L
+val= 90
+--------
+x= 47030
+y= 117189
+waypoll0= -8
+waypoll1= -129
+waypoll2= 0
+waypoll3= 7
+notch= 423
+--------
+i= 674
+code= S
+val= 2
+--------
+x= 47030
+y= 117189
+waypoll0= -8
+waypoll1= -129
+waypoll2= 2
+waypoll3= 7
+notch= 423
+--------
+i= 675
+code= L
+val= 90
+--------
+x= 47030
+y= 117189
+waypoll0= -8
+waypoll1= -129
+waypoll2= 2
+waypoll3= 7
+notch= 426
+--------
+i= 676
+code= S
+val= 3
+--------
+x= 47030
+y= 117189
+waypoll0= -8
+waypoll1= -126
+waypoll2= 2
+waypoll3= 7
+notch= 426
+--------
+i= 677
+code= W
+val= 5
+--------
+x= 47030
+y= 117189
+waypoll0= -3
+waypoll1= -126
+waypoll2= 2
+waypoll3= 7
+notch= 426
+--------
+i= 678
+code= F
+val= 54
+--------
+x= 47300
+y= 124371
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 133
+notch= 426
+--------
+i= 679
+code= R
+val= 90
+--------
+x= 47300
+y= 124371
+waypoll0= 0
+waypoll1= 0
+waypoll2= 5
+waypoll3= 133
+notch= 427
+--------
+i= 680
+code= F
+val= 85
+--------
+x= 58605
+y= 123946
+waypoll0= -5
+waypoll1= 0
+waypoll2= 0
+waypoll3= 133
+notch= 427
+--------
+i= 681
+code= S
+val= 4
+--------
+x= 58605
+y= 123946
+waypoll0= -5
+waypoll1= 0
+waypoll2= 4
+waypoll3= 133
+notch= 427
+--------
+i= 682
+code= F
+val= 22
+--------
+x= 61531
+y= 123748
+waypoll0= -9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 133
+notch= 427
+--------
+i= 683
+code= W
+val= 3
+--------
+x= 61531
+y= 123748
+waypoll0= -9
+waypoll1= 3
+waypoll2= 0
+waypoll3= 133
+notch= 427
+--------
+i= 684
+code= F
+val= 21
+--------
+x= 64261
+y= 123559
+waypoll0= -9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 130
+notch= 427
+--------
+i= 685
+code= R
+val= 90
+--------
+x= 64261
+y= 123559
+waypoll0= -9
+waypoll1= 0
+waypoll2= 0
+waypoll3= 130
+notch= 428
+--------
+i= 686
+code= F
+val= 66
+--------
+x= 63667
+y= 114979
+waypoll0= -9
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 428
+--------
+i= 687
+code= S
+val= 1
+--------
+x= 63667
+y= 114979
+waypoll0= -9
+waypoll1= -130
+waypoll2= 0
+waypoll3= 1
+notch= 428
+--------
+i= 688
+code= F
+val= 22
+--------
+x= 63469
+y= 112097
+waypoll0= -9
+waypoll1= -131
+waypoll2= 0
+waypoll3= 0
+notch= 428
+--------
+i= 689
+code= S
+val= 4
+--------
+x= 63469
+y= 112097
+waypoll0= -9
+waypoll1= -131
+waypoll2= 0
+waypoll3= 4
+notch= 428
+--------
+i= 690
+code= W
+val= 5
+--------
+x= 63469
+y= 112097
+waypoll0= -9
+waypoll1= -131
+waypoll2= 5
+waypoll3= 4
+notch= 428
+--------
+i= 691
+code= N
+val= 5
+--------
+x= 63469
+y= 112097
+waypoll0= -9
+waypoll1= -126
+waypoll2= 5
+waypoll3= 4
+notch= 428
+--------
+i= 692
+code= E
+val= 3
+--------
+x= 63469
+y= 112097
+waypoll0= -6
+waypoll1= -126
+waypoll2= 5
+waypoll3= 4
+notch= 428
+--------
+i= 693
+code= F
+val= 52
+--------
+x= 62897
+y= 105337
+waypoll0= -11
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 428
+--------
+i= 694
+code= L
+val= 180
+--------
+x= 62897
+y= 105337
+waypoll0= -11
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 434
+--------
+i= 695
+code= W
+val= 3
+--------
+x= 62897
+y= 105337
+waypoll0= -8
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 434
+--------
+i= 696
+code= S
+val= 1
+--------
+x= 62897
+y= 105337
+waypoll0= -8
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 434
+--------
+i= 697
+code= W
+val= 5
+--------
+x= 62897
+y= 105337
+waypoll0= -3
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 434
+--------
+i= 698
+code= R
+val= 180
+--------
+x= 62897
+y= 105337
+waypoll0= -3
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 699
+code= F
+val= 43
+--------
+x= 62768
+y= 99790
+waypoll0= -3
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 700
+code= E
+val= 5
+--------
+x= 62768
+y= 99790
+waypoll0= 2
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 701
+code= F
+val= 16
+--------
+x= 62800
+y= 97726
+waypoll0= 2
+waypoll1= -129
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 702
+code= W
+val= 4
+--------
+x= 62800
+y= 97726
+waypoll0= 2
+waypoll1= -129
+waypoll2= 4
+waypoll3= 0
+notch= 436
+--------
+i= 703
+code= S
+val= 5
+--------
+x= 62800
+y= 97726
+waypoll0= 2
+waypoll1= -129
+waypoll2= 4
+waypoll3= 5
+notch= 436
+--------
+i= 704
+code= W
+val= 5
+--------
+x= 62800
+y= 97726
+waypoll0= 2
+waypoll1= -129
+waypoll2= 9
+waypoll3= 5
+notch= 436
+--------
+i= 705
+code= N
+val= 4
+--------
+x= 62800
+y= 97726
+waypoll0= 2
+waypoll1= -125
+waypoll2= 9
+waypoll3= 5
+notch= 436
+--------
+i= 706
+code= F
+val= 97
+--------
+x= 62121
+y= 85116
+waypoll0= -7
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 707
+code= E
+val= 5
+--------
+x= 62121
+y= 85116
+waypoll0= -2
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 708
+code= F
+val= 4
+--------
+x= 62113
+y= 84596
+waypoll0= -2
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 709
+code= E
+val= 2
+--------
+x= 62113
+y= 84596
+waypoll0= 0
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 436
+--------
+i= 710
+code= R
+val= 180
+--------
+x= 62113
+y= 84596
+waypoll0= 0
+waypoll1= -130
+waypoll2= 0
+waypoll3= 0
+notch= 438
+--------
+i= 711
+code= F
+val= 99
+--------
+x= 62113
+y= 97466
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 130
+notch= 438
+--------
+i= 712
+code= S
+val= 5
+--------
+x= 62113
+y= 97466
+waypoll0= 0
+waypoll1= 5
+waypoll2= 0
+waypoll3= 130
+notch= 438
+--------
+i= 713
+code= F
+val= 44
+--------
+x= 62113
+y= 102966
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 125
+notch= 438
+--------
+i= 714
+code= R
+val= 90
+--------
+x= 62113
+y= 102966
+waypoll0= 0
+waypoll1= 0
+waypoll2= 0
+waypoll3= 125
+notch= 439
+--------
+i= 715
+code= W
+val= 5
+--------
+x= 62113
+y= 102966
+waypoll0= 0
+waypoll1= 5
+waypoll2= 0
+waypoll3= 125
+notch= 439
+--------
+i= 716
+code= N
+val= 2
+--------
+x= 62113
+y= 102966
+waypoll0= 2
+waypoll1= 5
+waypoll2= 0
+waypoll3= 125
+notch= 439
+--------
+i= 717
+code= L
+val= 90
+--------
+x= 62113
+y= 102966
+waypoll0= 2
+waypoll1= 5
+waypoll2= 0
+waypoll3= 125
+notch= 442
+--------
+i= 718
+code= F
+val= 46
+--------
+x= 62021
+y= 108486
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 120
+notch= 442
+--------
+i= 719
+code= E
+val= 4
+--------
+x= 62021
+y= 108486
+waypoll0= 0
+waypoll1= 0
+waypoll2= 2
+waypoll3= 120
+notch= 442
+--------
+i= 720
+code= L
+val= 180
+--------
+x= 62021
+y= 108486
+waypoll0= 0
+waypoll1= 0
+waypoll2= 2
+waypoll3= 120
+notch= 448
+--------
+i= 721
+code= E
+val= 4
+--------
+x= 62021
+y= 108486
+waypoll0= 4
+waypoll1= 0
+waypoll2= 2
+waypoll3= 120
+notch= 448
+--------
+i= 722
+code= R
+val= 90
+--------
+x= 62021
+y= 108486
+waypoll0= 4
+waypoll1= 0
+waypoll2= 2
+waypoll3= 120
+notch= 449
+--------
+i= 723
+code= F
+val= 45
+--------
+x= 56621
+y= 108396
+waypoll0= 0
+waypoll1= -120
+waypoll2= -2
+waypoll3= 0
+notch= 449
+--------
+i= 724
+code= R
+val= 90
+--------
+x= 56621
+y= 108396
+waypoll0= 0
+waypoll1= -120
+waypoll2= -2
+waypoll3= 0
+notch= 450
+--------
+i= 725
+code= S
+val= 4
+--------
+x= 56621
+y= 108396
+waypoll0= 0
+waypoll1= -116
+waypoll2= -2
+waypoll3= 0
+notch= 450
+--------
+i= 726
+code= F
+val= 30
+--------
+x= 56561
+y= 111876
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 116
+notch= 450
+--------
+i= 727
+code= R
+val= 90
+--------
+x= 56561
+y= 111876
+waypoll0= 0
+waypoll1= 0
+waypoll2= -2
+waypoll3= 116
+notch= 451
+--------
+i= 728
+code= F
+val= 23
+--------
+x= 59229
+y= 111922
+waypoll0= 2
+waypoll1= 0
+waypoll2= 0
+waypoll3= 116
+notch= 451
+--------
+i= 729
+code= N
+val= 5
+--------
+x= 59229
+y= 111922
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 116
+notch= 451
+--------
+i= 730
+code= W
+val= 2
+--------
+x= 59229
+y= 111922
+waypoll0= 7
+waypoll1= 2
+waypoll2= 0
+waypoll3= 116
+notch= 451
+--------
+i= 731
+code= F
+val= 45
+--------
+x= 64359
+y= 112237
+waypoll0= 7
+waypoll1= 0
+waypoll2= 0
+waypoll3= 114
+notch= 451
+--------
+i= 732
+code= S
+val= 3
+--------
+x= 64359
+y= 112237
+waypoll0= 7
+waypoll1= 0
+waypoll2= 3
+waypoll3= 114
+notch= 451
+--------
+i= 733
+code= F
+val= 70
+--------
+x= 72339
+y= 112517
+waypoll0= 4
+waypoll1= 0
+waypoll2= 0
+waypoll3= 114
+notch= 451
+--------
+i= 734
+code= L
+val= 90
+--------
+x= 72339
+y= 112517
+waypoll0= 4
+waypoll1= 0
+waypoll2= 0
+waypoll3= 114
+notch= 454
+--------
+i= 735
+code= W
+val= 2
+--------
+x= 72339
+y= 112517
+waypoll0= 6
+waypoll1= 0
+waypoll2= 0
+waypoll3= 114
+notch= 454
+--------
+i= 736
+code= F
+val= 90
+--------
+x= 71799
+y= 122777
+waypoll0= 0
+waypoll1= 0
+waypoll2= -6
+waypoll3= 114
+notch= 454
+--------
+i= 737
+code= W
+val= 5
+--------
+x= 71799
+y= 122777
+waypoll0= 5
+waypoll1= 0
+waypoll2= -6
+waypoll3= 114
+notch= 454
+--------
+i= 738
+code= F
+val= 81
+--------
+x= 70908
+y= 132011
+waypoll0= 0
+waypoll1= 0
+waypoll2= -11
+waypoll3= 114
+notch= 454
+--------
+i= 739
+code= E
+val= 2
+--------
+x= 70908
+y= 132011
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= 114
+notch= 454
+--------
+i= 740
+code= F
+val= 15
+--------
+x= 70773
+y= 133721
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= 114
+notch= 454
+--------
+i= 741
+code= L
+val= 90
+--------
+x= 70773
+y= 133721
+waypoll0= 0
+waypoll1= 0
+waypoll2= -9
+waypoll3= 114
+notch= 457
+--------
+i= 742
+code= F
+val= 90
+--------
+x= 60513
+y= 132911
+waypoll0= 0
+waypoll1= -114
+waypoll2= -9
+waypoll3= 0
+notch= 457
+--------
+i= 743
+code= N
+val= 2
+--------
+x= 60513
+y= 132911
+waypoll0= 0
+waypoll1= -114
+waypoll2= -7
+waypoll3= 0
+notch= 457
+--------
+i= 744
+code= F
+val= 78
+--------
+x= 51621
+y= 132365
+waypoll0= 0
+waypoll1= -114
+waypoll2= -7
+waypoll3= 0
+notch= 457
+--------
+i= 745
+code= S
+val= 4
+--------
+x= 51621
+y= 132365
+waypoll0= 4
+waypoll1= -114
+waypoll2= -7
+waypoll3= 0
+notch= 457
+--------
+i= 746
+code= F
+val= 3
+--------
+x= 51279
+y= 132332
+waypoll0= 0
+waypoll1= -114
+waypoll2= -11
+waypoll3= 0
+notch= 457
+--------
+i= 747
+code= F
+val= 37
+--------
+x= 47061
+y= 131925
+waypoll0= 0
+waypoll1= -114
+waypoll2= -11
+waypoll3= 0
+notch= 457
+--------
+178986
